@@ -1,6 +1,6 @@
 ### Chapter 6: Combat
 
-Combat in Gen6 is designed to be fast-paced and thrilling, reflecting the pulpy style of the game. It can be deadly, so strategic thinking and quick actions are crucial. Your defense represents a combination of dodging, parrying, and blocking. When you get hit, there are no "soak" rolls to mitigate damage; you take it directly. However, the game is balanced to allow for heroic feats and exciting action.
+Combat in Gen6 is designed to be fast-paced and thrilling, reflecting the pulpy style of the game. It can be deadly, so strategic thinking and quick actions are crucial. Your defense represents a combination of dodging, parrying, and blocking. When you get hit, there are no "soak" rolls to mitigate damage you just reduce damage by your toughness or armor rating; then you take it directly. However, the game is balanced to allow for heroic feats and exciting action.
 
 ## Step-by-Step Combat
 
@@ -27,66 +27,31 @@ Once all characters have taken their turns, a new round begins. Repeat the proce
 - **Roll:** 3D+Quickness
 - **Side Initiative:** One player rolls for their side, and the GM rolls for their side. Turns alternate between sides.
 
-### Actions
+### Action Economy
 
-#### Move
-- **Description:** Move up to your move rate (30 feet by default).
-- **Example:** Moving from cover to engage an enemy.
+#### MAJOR ACTIONS
+- Charge: You move up to half your Speed (rounded down) in yards and finish with a melee attack against an adjacent enemy. If you moved at least 4 yards in a straight line before reaching your target, you gain a +1 bonus on your attack roll.
+- Defend: You concentrate on defending yourself this round. Until the beginning of your next turn, you gain a +2 bonus to your Defense.
+- First Aid: You provide quick medical assistance to an injured ally. You must be adjacent to your ally and have bandages ready. This is a TN 15 Medicine test. If you succeed, your ally gets back an amount of Health equal to the Medicine Ranks + your Intelligence Modifier (minimum 1 Health point). A character cannot benefit from another First Aid action until additional damage is taken.
+- Melee Attack: You attack one adjacent enemy in hand-to-hand combat. An enemy within 2 yards of you is considered adjacent.
+- Ranged Attack: You fire or throw a missile weapon at one visible enemy within range.
+- Run/Chase: On foot, you may move up to double your Speed in yards, sacrificing the ability to perform another action so you can move farther. You cannot take this action if you are prone (you’d need to use the Move action to stand up first). If riding a mount, you may urge it forward the same distance. On foot, on a mount, or in a vehicle, this action is required to participate in a chase.
 
-#### Attack
-- **Roll:** 3D + Ability Modifier + Skill Ranks
-- **Target Number (TN):** Opponent's Defense + Range Modifier + Other Factors
-- **Example:** A character with Agility 3 and Firearms 2 attacking a target with Defense 12 at medium range (TN +2) rolls 3D + 3 + 2 vs. TN 14.
+#### MINOR ACTIONS
+- Activate: This action allows you to start using certain abilities or items, such as an arcane power or an electronic device. When a vehicle has integrated weaponry (such as a machine gun built into a spy car) you use the Activate action to deliver attacks.
+- Aim: You take the measure of your opponent and plan your next strike. If your next action is a Melee Attack or Ranged Attack, you gain a +1 bonus on your attack roll.
+- Guard Up: You balance action and defense. Add +1 or +2 (your choice) to your Defense until the end of this round. However, you suffer the amount you choose as a penalty to all tests you make—even opposed tests—for the remainder of the current round as well (unlike the more advantageous Defend action, which lasts until the beginning of your next turn). If you choose this minor action, you must do it before any major action you take this turn, and that major action cannot be Defend.
+- Move: You can move up to your Speed in yards and can combine this with actions like falling prone, standing up, mounting a horse, or climbing on a vehicle, but these actions consume half your Speed (rounded down).
+- Prepare: When you take this action, you postpone your major action to use at a later point. You declare one major action and your choice to Prepare it. After you do so, the next person in initiative order acts, and so on, but at any time until your next turn, you can interrupt another character and take your prepared action immediately. If you don’t use the prepared action by your next turn, you lose it.
 
-#### Aim
-- **Description:** Spend your action aiming. You get +1 to Melee Combat or +3 to Firearms/Archery skills for your next attack.
-- **Example:** Aiming with a rifle to improve accuracy on the next shot.
-
-#### Delay
-- **Description:** Delay your action until later in the round.
-- **Example:** Waiting for an enemy to move into range before attacking.
-
-#### Full Defense
-- **Description:** Take full defense, using cover and avoiding attacks. Add +10 to your defense until your next turn.
-- **Example:** Hiding behind a wall to avoid incoming fire.
-
-#### Bonus Actions
-- **Description:** Quick actions that can be performed in addition to your main action.
-- **Example:** Drawing a weapon, shouting a warning, or opening a door.
-
-#### Dash
-- **Description:** Move your move rate again, effectively doubling your movement for the turn.
-- **Example:** Sprinting across the battlefield to reach an objective.
-
-#### Interact with Item
-- **Description:** Use or manipulate an item.
-- **Example:** Picking up an object, pressing a button, or throwing a switch.
-
-#### Use Stimpack or Ready Item
-- **Description:** Use a healing item or prepare an item for future use.
-- **Example:** Injecting a stimpack to regain health or setting a trap.
-
-### Reactions
-Reactions are actions you can take outside your turn in response to specific triggers.
-- **Example:** Dodging an incoming attack or making an opportunity attack when an enemy moves out of your reach.
-
-In Gen6 rather than enemies rolling to hit you they have a fixed attack number, and you roll your Quickness to dodge the attack. 
-
-For Melee and Brawling the player can add their ranks of Brawl or Melee Combat to their quickness rolls. 
-
-For Ranged Combat their best hope is likely to take cover behind something to avoid getting hit, few people can dodge bullets.
-
-**Example**
-Denia is fighting a vampire in a forgotten library. The Vampire has the initiative and announces they are going to attack Denia. 
-
-The Vampire has an 8 Melee Attack and a PHY DM of +2 so they have a total of 10. The flat attack is 10 + Attribute DM + Skill Ranks + Other modifiers.
-
-So the Vampire has a 20 TN for Denia to dodge. Denia is pretty quick with a +3 modifier to Quickness but Vampires are supernaturally fast creatures dodging one as a mere mortal is a real task. Denia makes their reaction and dodges the attack rolling a 12 with their 3 DM they have a 15. Meaning the Vampire hit with its claw attack doing 2D +2 points of Health Damage. 
+#### VARIABLE ACTIONS
+- Use a Power: You attempt to use a special ability granted by a talent, specialization, or any other source, including arcane spells or psychic powers. This may be a major action, minor action, or free action depending on the power and the use of any related stunt, and may require a specific ability test.
+- Reload: You reload a missile weapon. This may be a major action, minor action, or free action depending on the weapon, and your abilities
 
 ## Combat Modifiers
 The following modifiers, modify the Target Number not the number rolled.
 
-So if a character drops prone, when they roll to Dodge (3D+Quickness) that establishes the TN for the enemy, then add 5 to that. (Keep in mind anyone in melee would take -5 off their Target Number to hit them)
+Combat in Gen6 is deadly. It is not common you will be able to shrug off very many shutguns blasts to the chest. 
 
 ### Close Combat
 | Situation          | TN Modifier |
@@ -153,33 +118,32 @@ So if a character drops prone, when they roll to Dodge (3D+Quickness) that estab
 
 ## Damage and Healing
 
-Your health pool represents your overall health. When you take damage, you may suffer wounds based on the severity of the damage.
+### Damage Source & Type
+Damage comes from three different sources: impact, ballistic,
+and penetrating attacks.
 
-| Health State     | % of Health (rounded up) |
-| ---------------- | ------------------------ |
-| Healthy          | 100%                     |
-| Wounded          | 50%                      |
-| Severely Wounded | 25%                      |
-| Incapacitated    | 0%                       |
-| Dead             | Special                  |
+- Impact damage is inflicted by weapons and attacks that rely on sheer force, such as unarmed strikes and most hand-to-hand weapons. Most armor protects against impact damage, providing whatever Armor Rating is listed with the letter I, such as 4I for an Armor Rating of 4 against impact damage.
+- Ballistic damage usually comes from firearms or shrapnel, and cuts through armor not specifically designed to stop it. In most cases, only modern bullet-resistant armor protects against it, with an Armor Rating accompanied by the letter B (such as 6B for an Armor Rating of 6 against ballistic damage), noted in the armor’s listing.
+- Penetrating damage ignores most armor and comes from special weapons, hazards, and abilities, such as raging open flames or the Called Shot stunt. Very few things reduce penetrating damage.
+
+The GM can always use common sense when figuring out how well armor protects someone. For example, a poison may not list a damage source, but if you drink it, your armor obviously won’t help you (your STAMINA might though).
+
+Furthermore, attacks can deal one of two types of damage: stun damage, which is non-lethal and leaves only bruises and broken egos, and wound damage, which breaks bones and can easily kill. Toughness reduces damage based on the game’s mode, an attack’s damage type, and its damage source.
+
+### Health & Healing
+
+Your health pool represents your overall health. When you take damage, you may suffer wounds based on the severity of the damage. Health measures a character’s fitness and wellbeing. A character with full Health is vigorous and ready for action. A character with less than full Health is fatigued or wounded. A character reduced to 0 Health is dying and may die unless they receive medical attention. When your character is wounded, there are several ways to heal.
+
+- Another character can aid you with a First Aid action, as described under Major Actions in this chapter. You can’t benefit from another First Aid action until you take more damage (there is only so much benefit you can gain from basic care).
+- You can take a breather after a combat encounter. This is a 5-minute rest that lets you catch your breath, tend to minor cuts and abrasions, drink some water, and so on. After a breather, you get back 5 + Constitution Modifier. You can take only one breather after an encounter. If you were at 0 Health when the combat encounter ended, you cannot take a breather at all.
+- You can get some sleep. If you can get at least 6 hours of restful sleep, you gain 10 + Constitution. 
+- You receive extended medical attention. Another character can tend to your injuries with a TN 13 Medicine test that lasts 1 hour or is concurrent with sleep as above. The character in charge of your care must use proper medical tools and supplies (found easily in any clinic, hospital, or doctor’s office). Success means you recover an additional amount of Health equal to 5 + treating character’s Intelligence + treating characters ranks in Medicine.
+- You can be healed by extraordinary powers, like an arcane spell or a psychic ability
+- If you have lost points of Constitution (if you were dying) you must regain those first before Hit Points
+
+
 
 ### Health States
-
-#### **Stunned**
-- **Description:** You are unconscious but not incapacitated, usually from a taser or similar effect.
-- **Effect:** Unable to take actions or reactions.
-
-#### **Wounded**
-- **Description:** You have taken significant damage and are impaired.
-- **Effect:** All tests are at -3.
-
-#### **Severely Wounded**
-- **Description:** You are gravely injured and barely able to function.
-- **Effect:** All tests are at -5.
-
-#### **Incapacitated**
-- **Description:** You are critically injured and unable to act.
-- **Effect:** Fail all tests except for healing. You are unconscious.
 
 ### Dying
 
@@ -188,9 +152,9 @@ When you drop to zero hit points:
 2. Any ongoing effects you were maintaining end.
 3. You begin to bleed out.
 
-Each round after hitting zero, you begin losing Vitality. When you run out of Vitality you are dead. While death is often permanent, the world of Gen6 is filled with possibilities that might offer a second chance.
+Each round after hitting zero, you begin losing Constitution. When you run out of Constitution you are dead. While death is often permanent, the world of Gen6 is filled with possibilities that might offer a second chance. 
 
-> If the GM wants a more dangerous game half the HP bonus, if they want a deadly game remove HP and have the characters take damage to their Vitality to 0 and then either their Agility or Physical. When the second one reaches 0, they are unconcious, if the third drops to 0 they are dead. This is deadlier because they start taking negatives on rolls really fast.
+> If the GM wants a more dangerous game half the HP bonus, if they want a deadly game remove HP and have the characters take damage to their Constitution to 0 and then either their Dexterity or Strength. When the second one reaches 0, they are unconcious, if the third drops to 0 they are dead. This is deadlier because they start taking negatives on rolls really fast.
 
 ### Sizes
 

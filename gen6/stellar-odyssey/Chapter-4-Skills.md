@@ -45,19 +45,19 @@ Skill levels in Gen6 range from 0 to 9, indicating the depth of a character's kn
 
 | Skill              | Attribute | Sample Focuses                                               |
 | ------------------ | --------- | ------------------------------------------------------------ |
-| Acrobatics         | AGI       | Long Jump, Parkour, Free Running                             |
-| Athletics          | PHY       | Run, Climb, Swim                                             |
-| Brawl              | PHY       | Martial Arts, Bar Fighting                                   |
-| Firearms           | AGI       | Pistols, Rifles, SMGs                                        |
-| Stealth            | AGI       | Hiding, Sneaking                                             |
+| Acrobatics         | DEX       | Long Jump, Parkour, Free Running                             |
+| Athletics          | STR       | Run, Climb, Swim                                             |
+| Brawl              | STR       | Martial Arts, Bar Fighting                                   |
+| Firearms           | DEX       | Pistols, Rifles, SMGs                                        |
+| Stealth            | DEX       | Hiding, Sneaking                                             |
 | Survival           | PER       | Tracking, Navigation, Foraging, Streetwise                   |
-| Melee Combat       | PHY       | Short Blades, Long Blades, Clubs                             |
-| Computers          | LOG       | Research, Programming, Hacking                               |
-| Engineering        | LOG       | Demolitions, Structural, Mechanical                          |
-| Investigation      | LOG       | Interview, Interrogate, Canvass                              |
-| Medicine           | LOG       | Surgery, First Aid, Herbal Medicine                          |
-| Science            | LOG       | Life Science, Physical Science, Space Science, Xenobiology   |
-| Mysticism          | LOG       | Religion, Cultural, Voodoo, Old Ones, Arcana                 |
+| Melee Combat       | STR       | Short Blades, Long Blades, Clubs                             |
+| Computers          | INT       | Research, Programming, Hacking                               |
+| Engineering        | INT       | Demolitions, Structural, Mechanical                          |
+| Investigation      | INT       | Interview, Interrogate, Canvass                              |
+| Medicine           | INT       | Surgery, First Aid, Herbal Medicine                          |
+| Science            | INT       | Life Science, Physical Science, Space Science, Xenobiology   |
+| Mysticism          | INT       | Religion, Cultural, Voodoo, Old Ones, Arcana                 |
 | Charm              | SOC       | Persuade, Seduce, Small Talk                                 |
 | Deception          | SOC       | Fast Talk, Bluff, Disguise, Impersonate                      |
 | Intimidation       | SOC       | Indoctrinate, Frighten, Strongarm                            |
@@ -65,16 +65,16 @@ Skill levels in Gen6 range from 0 to 9, indicating the depth of a character's kn
 | Notice             | PER       | Search, Spot, Quickdraw                                      |
 | Insight            | PER       | Sense Motive, Discern Lies, Observe                          |
 | Sense              | PER       | Smell, Taste, Listen                                         |
-| Crafting           | LOG       | Construction, Craft, Art, Pottery, Firearm Repair            |
-| Driving            | AGI       | Ground Vehicles, Water Vehicles, Heavy Vehicles              |
-| Lockpicking        | AGI       | Lock Construction, Keymaking, Maglocks                       |
-| Mechanics          | LOG       | Repair, Jury Rig, Electronic Repair, Automotive              |
-| Pilot              | AGI       | Starships, Fighters, Dropships, Shuttles, Helicopters, VTOL  |
-| Zero-G Maneuvering | AGI       | Zero-G Combat, EVA Repair, Emergency Procedures              |
-| Xenology           | LOG       | Alien Cultures, Alien Technology, Alien Etiquette            |
-| Astrogation        | LOG       | Jump Calculations, Stellar Cartography, Multiversal Dynamics |
-| Energy Weapons     | AGI       | Plasma Rifles, Plasma Rifles, Plasma Cannons                 |
-| Gunnery            | AGI       | Railguns, PDCs, Plasma Cannons, Missiles, Torpedos           |
+| Crafting           | INT       | Construction, Craft, Art, Pottery, Firearm Repair            |
+| Driving            | DEX       | Ground Vehicles, Water Vehicles, Heavy Vehicles              |
+| Lockpicking        | DEX       | Lock Construction, Keymaking, Maglocks                       |
+| Mechanics          | INT       | Repair, Jury Rig, Electronic Repair, Automotive              |
+| Pilot              | DEX       | Starships, Fighters, Dropships, Shuttles, Helicopters, VTOL  |
+| Zero-G Maneuvering | DEX       | Zero-G Combat, EVA Repair, Emergency Procedures              |
+| Xenology           | INT       | Alien Cultures, Alien Technology, Alien Etiquette            |
+| Astrogation        | INT       | Jump Calculations, Stellar Cartography, Multiversal Dynamics |
+| Energy Weapons     | DEX       | Plasma Rifles, Plasma Rifles, Plasma Cannons                 |
+| Gunnery            | DEX       | Railguns, PDCs, Plasma Cannons, Missiles, Torpedos           |
 
 ### Defaulting
 
@@ -107,7 +107,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
 
 #### **Physical Skills**
 
-1. **Acrobatics (AGI)**
+1. **Acrobatics (DEX)**
    - **Description:** Acrobatics involves feats of balance, coordination, and agility. Characters with acrobatics training can perform complex maneuvers such as flips, rolls, and climbs, often seen in gymnastics, circus arts, or parkour. This skill is crucial for navigating tricky terrain, evading attacks, and impressing crowds with dazzling performances.
    - **Example Focuses:** Long Jump, Parkour, Free Running
    - **Example Usages:**
@@ -116,7 +116,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Escaping restraints with a flip:** Bound by ropes, you contort your body and flip out of the restraints. (TN 20)
      - **Running across a tightrope:** Using your agility, you cross a tightrope quickly and safely. (TN 25)
 
-2. **Athletics (PHY)**
+2. **Athletics (STR)**
    - **Description:** Athletics encompasses activities that require physical strength, endurance, and stamina. This skill includes running, swimming, climbing, and other feats of raw physical prowess. Characters skilled in athletics excel in sports, laborious tasks, and survival situations requiring intense physical exertion.
    - **Example Focuses:** Run, Climb, Swim
    - **Example Usages:**
@@ -125,7 +125,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Swimming against a strong current:** Navigating through turbulent waters without being swept away. (TN 15)
      - **Sprinting up a steep hill:** Overcoming a steep incline while maintaining speed and stamina. (TN 20)
 
-3. **Brawl (PHY)**
+3. **Brawl (STR)**
    - **Description:** Brawl represents unarmed combat skills, including punching, grappling, and wrestling. Characters proficient in brawl are adept at close-quarters combat, using their physical strength and combat techniques to overpower opponents without weapons.
    - **Example Focuses:** Martial Arts, Bar Fighting
    - **Example Usages:**
@@ -134,7 +134,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Performing a complex martial arts move:** Executing a well-practiced martial arts maneuver to gain an advantage. (TN 15)
      - **Defeating multiple opponents unarmed:** Using superior technique and strength to take on several foes at once. (TN 20)
 
-4. **Melee Combat (PHY)**
+4. **Melee Combat (STR)**
    - **Description:** Melee Combat involves fighting with handheld weapons such as swords, axes, and clubs. This skill covers weapon handling, striking techniques, and defensive maneuvers. Characters skilled in melee combat are formidable warriors in close-quarters battles.
    - **Example Focuses:** Short Blades, Long Blades, Clubs
    - **Example Usages:**
@@ -145,7 +145,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
 
 #### **Agility Skills**
 
-5. **Firearms (AGI)**
+5. **Firearms (DEX)**
    - **Description:** Firearms skill covers the use of ranged weapons such as pistols, rifles, and SMGs. This includes aiming, shooting, and maintaining these weapons. Characters proficient with firearms can engage enemies at a distance with accuracy and efficiency.
    - **Example Focuses:** Pistols, Rifles, SMGs
    - **Example Usages:**
@@ -154,7 +154,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Rapid firing:** Accurately firing multiple shots in quick succession. (TN 15)
      - **Sniping:** Taking a precise shot from a long distance. (TN 20)
 
-6. **Stealth (AGI)**
+6. **Stealth (DEX)**
    - **Description:** Stealth involves moving silently, hiding, and avoiding detection. This skill is essential for espionage, infiltration, and avoiding confrontations. Characters skilled in stealth can slip past guards, conceal themselves in shadows, and move undetected.
    - **Example Focuses:** Hiding, Sneaking
    - **Example Usages:**
@@ -163,7 +163,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Camouflaging:** Blending into the environment to avoid detection. (TN 20)
      - **Shadowing:** Following someone without being noticed. (TN 25)
 
-7. **Zero-G Maneuvering (AGI)**
+7. **Zero-G Maneuvering (DEX)**
    - **Description:** Zero-G Maneuvering is the ability to move and operate effectively in zero-gravity environments. This includes spacewalks, using thrusters, and navigating space stations. Characters skilled in zero-G maneuvering excel in space missions and extraterrestrial operations.
    - **Example Focuses:** Zero-G Combat, EVA Repair, Emergency Procedures
    - **Example Usages:**
@@ -185,7 +185,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
 
 #### **Logic Skills**
 
-9. **Computers (LOG)**
+9. **Computers (INT)**
    - **Description:** Computers covers using, programming, and hacking computer systems. This skill includes understanding software, hardware, and networks. Characters skilled in computers can perform tasks ranging from simple operations to complex cyber warfare.
    - **Example Focuses:** Research, Programming, Hacking
    - **Example Usages:**
@@ -194,7 +194,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Bypassing security systems:** Hacking into a secure network. (TN 15)
      - **Counter-hacking:** Defending against an ongoing cyber attack. (TN 20)
 
-10. **Engineering (LOG)**
+10. **Engineering (INT)**
    - **Description:** Engineering involves designing, building, and repairing structures and machinery. This skill covers a wide range of fields, including mechanical, electrical, and civil engineering. Characters proficient in engineering can create and maintain advanced technology and infrastructure.
    - **Example Focuses:** Demolitions, Structural, Mechanical
    - **Example Usages:**
@@ -203,7 +203,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Conducting a controlled demolition:** Safely demolishing a structure. (TN 20)
      - **Building a complex machine:** Assembling an advanced mechanical device. (TN 25)
 
-11. **Investigation (LOG)**
+11. **Investigation (INT)**
    - **Description:** Investigation is the ability to gather and analyze information to solve mysteries and uncover hidden truths. This skill includes interviewing witnesses, examining evidence, and making logical deductions. Characters skilled in investigation excel in detective work and research.
    - **Example Focuses:** Interview, Interrogate, Canvass
    - **Example Usages:**
@@ -214,7 +214,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
 
  a complex case:** Piecing together disparate clues to solve a mystery. (TN 25)
 
-12. **Medicine (LOG)**
+12. **Medicine (INT)**
    - **Description:** Medicine covers the diagnosis, treatment, and prevention of diseases and injuries. This skill includes first aid, surgery, and pharmacology. Characters proficient in medicine can save lives, treat wounds, and manage health crises.
    - **Example Focuses:** Surgery, First Aid, Herbal Medicine
    - **Example Usages:**
@@ -223,7 +223,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Diagnosing an illness:** Identifying the cause of a patient's symptoms. (TN 20)
      - **Creating a treatment plan:** Developing a comprehensive medical treatment. (TN 25)
 
-13. **Science (LOG)**
+13. **Science (INT)**
    - **Description:** Science encompasses various scientific disciplines, including biology, chemistry, physics, and astronomy. This skill includes conducting experiments, analyzing data, and applying scientific principles. Characters skilled in science can make discoveries, solve technical problems, and understand the natural world.
    - **Example Focuses:** Life Science, Physical Science, Space Science, Xenobiology
    - **Example Usages:**
@@ -232,7 +232,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Developing a hypothesis:** Formulating a testable scientific hypothesis. (TN 20)
      - **Making a discovery:** Uncovering a significant scientific breakthrough. (TN 25)
 
-14. **Mysticism (LOG)**
+14. **Mysticism (INT)**
    - **Description:** Mysticism involves knowledge and practice of magical, spiritual, and occult traditions. This skill includes understanding rituals, casting spells, and communing with supernatural entities. Characters proficient in mysticism can harness mystical energies and interact with the arcane.
    - **Example Focuses:** Religion, Cultural, Voodoo, Old Ones, Arcana
    - **Example Usages:**
@@ -310,7 +310,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
 
 #### **Technical Skills**
 
-22. **Crafting (LOG)**
+22. **Crafting (INT)**
    - **Description:** Crafting involves creating, repairing, and enhancing physical items. This skill includes construction, artistry, and weapon maintenance. Characters skilled in crafting can produce high-quality items, repair damaged equipment, and innovate new designs.
    - **Example Focuses:** Construction, Craft, Art, Pottery, Firearm Repair
    - **Example Usages:**
@@ -319,7 +319,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Creating a work of art:** Producing a beautiful and intricate artwork. (TN 20)
      - **Innovating a new design:** Developing a novel and effective item. (TN 25)
 
-23. **Driving (AGI)**
+23. **Driving (DEX)**
    - **Description:** Driving involves operating ground and water vehicles, including cars, trucks, and boats. This skill includes controlling vehicles, navigating terrain, and performing stunts. Characters skilled in driving can handle various vehicles with precision and skill.
    - **Example Focuses:** Ground Vehicles, Water Vehicles, Heavy Vehicles
    - **Example Usages:**
@@ -330,7 +330,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Performing a vehicular stunt:** Executing a complex maneuver with a vehicle. (TN 15)
      - **Evading pursuit:** Outmaneuvering pursuers in a high-speed chase. (TN 20)
 
-24. **Lockpicking (AGI)**
+24. **Lockpicking (DEX)**
    - **Description:** Lockpicking involves bypassing locks and security systems. This skill includes manipulating lock mechanisms, decoding electronic locks, and opening secured containers. Characters skilled in lockpicking can access restricted areas and retrieve valuable items.
    - **Example Focuses:** Lock Construction, Keymaking, Maglocks
    - **Example Usages:**
@@ -339,7 +339,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Bypassing a complex lock:** Opening a high-security lock mechanism. (TN 20)
      - **Cracking a safe:** Gaining access to a secured safe. (TN 25)
 
-25. **Mechanics (LOG)**
+25. **Mechanics (INT)**
    - **Description:** Mechanics involves repairing, maintaining, and modifying machinery and vehicles. This skill includes understanding mechanical systems, troubleshooting issues, and enhancing performance. Characters skilled in mechanics can keep vehicles and equipment in top condition.
    - **Example Focuses:** Repair, Jury Rig, Electronic Repair, Automotive
    - **Example Usages:**
@@ -348,7 +348,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Enhancing performance:** Upgrading a vehicle's performance. (TN 20)
      - **Troubleshooting complex issues:** Diagnosing and fixing intricate mechanical problems. (TN 25)
 
-26. **Pilot (AGI)**
+26. **Pilot (DEX)**
    - **Description:** Pilot involves operating aerial and space vehicles, including spacecraft, shuttles, and fighter jets. This skill includes navigating through space, performing aerial maneuvers, and handling advanced spacecraft systems. Characters skilled in piloting can control various aircraft and spacecraft with expertise.
    - **Example Focuses:** Starships, Fighters, Dropships, Shuttles, Helicopters, VTOL
    - **Example Usages:**
@@ -357,7 +357,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Performing combat maneuvers:** Executing complex aerial combat tactics. (TN 20)
      - **Handling emergency landings:** Safely landing a damaged spacecraft. (TN 25)
 
-27. **Xenology (LOG)**
+27. **Xenology (INT)**
    - **Description:** Xenology involves understanding and interacting with alien cultures, technologies, and biology. This skill includes studying alien species, decoding alien languages, and negotiating with extraterrestrial beings. Characters skilled in xenology can navigate and bridge cultural and technological gaps between different species.
    - **Example Focuses:** Alien Cultures, Alien Technology, Alien Etiquette
    - **Example Usages:**
@@ -366,7 +366,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Negotiating with alien beings:** Successfully engaging in diplomatic discussions with aliens. (TN 20)
      - **Conducting xenobiological research:** Studying and analyzing alien life forms. (TN 25)
 
-28. **Astrogation (LOG)**
+28. **Astrogation (INT)**
    - **Description:** Astrogation involves charting courses and navigating through space. This skill includes plotting interstellar travel routes, avoiding hazards, and optimizing travel paths. Characters skilled in astrogation can ensure safe and efficient space travel.
    - **Example Focuses:** Jump Calculations, Stellar Cartography, Multiversal Dynamics
    - **Example Usages:**
@@ -375,7 +375,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Optimizing travel paths:** Finding the most efficient route for interstellar travel. (TN 20)
      - **Conducting advanced astrogation:** Performing complex calculations for long-distance travel. (TN 25)
 
-29. **Energy Weapons (AGI)**
+29. **Energy Weapons (DEX)**
    - **Description:** Energy Weapons involves using advanced energy-based weaponry, such as plasma rifles and laser cannons. This skill includes aiming, firing, and maintaining these weapons. Characters skilled in energy weapons can engage in high-tech combat with precision and effectiveness.
    - **Example Focuses:** Plasma Rifles, Plasma Cannons
    - **Example Usages:**
@@ -384,7 +384,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Engaging in energy weapon combat:** Using advanced tactics in energy-based combat. (TN 20)
      - **Optimizing energy weapon performance:** Enhancing the effectiveness of energy-based weapons. (TN 25)
 
-30. **Gunnery (AGI)**
+30. **Gunnery (DEX)**
    - **Description:** Gunnery involves operating large-scale weapons systems, such as railguns, PDCs, and missiles. This skill includes targeting, firing, and maintaining these systems. Characters skilled in gunnery can handle advanced weaponry with expertise, often used on spacecraft and fortified positions.
    - **Example Focuses:** Railguns, PDCs, Plasma Cannons, Missiles, Torpedos
    - **Example Usages:**
@@ -408,7 +408,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 
 ### Physical Skills
 
-#### Acrobatics (AGI)
+#### Acrobatics (DEX)
 - **Very Easy:** Balancing on a wide beam (TN 5)
 - **Easy:** Tumbling to avoid a trip wire (TN 10)
 - **Moderate:** Swinging from one bar to another (TN 15)
@@ -416,7 +416,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Flipping over an opponent in combat (TN 25)
 - **Nearly Impossible:** Leaping across a wide chasm (TN 30)
 
-#### Athletics (PHY)
+#### Athletics (STR)
 - **Very Easy:** Running a short distance (TN 5)
 - **Easy:** Climbing a low wall (TN 10)
 - **Moderate:** Swimming across a calm lake (TN 15)
@@ -424,7 +424,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Sprinting up a steep hill (TN 25)
 - **Nearly Impossible:** Lifting a heavy boulder (TN 30)
 
-#### Brawl (PHY)
+#### Brawl (STR)
 - **Very Easy:** Throwing a basic punch (TN 5)
 - **Easy:** Grappling an untrained opponent (TN 10)
 - **Moderate:** Disarming an opponent (TN 15)
@@ -432,7 +432,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Breaking free from a strong hold (TN 25)
 - **Nearly Impossible:** Defeating multiple opponents unarmed (TN 30)
 
-#### Firearms (AGI)
+#### Firearms (DEX)
 - **Very Easy:** Firing at a stationary target (TN 5)
 - **Easy:** Hitting a moving target at short range (TN 10)
 - **Moderate:** Shooting a target at medium range (TN 15)
@@ -440,7 +440,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Sniping a target at long range (TN 25)
 - **Nearly Impossible:** Shooting a tiny moving target in the dark (TN 30)
 
-#### Stealth (AGI)
+#### Stealth (DEX)
 - **Very Easy:** Hiding in a dark corner (TN 5)
 - **Easy:** Sneaking past a distracted guard (TN 10)
 - **Moderate:** Moving silently across gravel (TN 15)
@@ -456,7 +456,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Surviving a desert night without gear (TN 25)
 - **Nearly Impossible:** Tracking an invisible creature (TN 30)
 
-#### Melee Combat (PHY)
+#### Melee Combat (STR)
 - **Very Easy:** Swinging a club (TN 5)
 - **Easy:** Blocking a basic attack (TN 10)
 - **Moderate:** Striking an opponent's weak spot (TN 15)
@@ -466,7 +466,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 
 ### Logic Skills
 
-#### Computers (LOG)
+#### Computers (INT)
 - **Very Easy:** Using basic software (TN 5)
 - **Easy:** Navigating a simple network (TN 10)
 - **Moderate:** Hacking into a secure system (TN 15)
@@ -474,7 +474,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Defeating advanced cybersecurity (TN 25)
 - **Nearly Impossible:** Cracking military-grade encryption (TN 30)
 
-#### Engineering (LOG)
+#### Engineering (INT)
 - **Very Easy:** Repairing a broken tool (TN 5)
 - **Easy:** Fixing a common mechanical issue (TN 10)
 - **Moderate:** Building a basic machine (TN 15)
@@ -482,7 +482,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Reverse-engineering alien tech (TN 25)
 - **Nearly Impossible:** Creating a perpetual motion machine (TN 30)
 
-#### Investigation (LOG)
+#### Investigation (INT)
 - **Very Easy:** Spotting obvious clues (TN 5)
 - **Easy:** Interviewing a cooperative witness (TN 10)
 - **Moderate:** Analyzing a crime scene (TN 15)
@@ -490,7 +490,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Uncovering a deep conspiracy (TN 25)
 - **Nearly Impossible:** Solving an unsolvable case (TN 30)
 
-#### Medicine (LOG)
+#### Medicine (INT)
 - **Very Easy:** Treating a minor wound (TN 5)
 - **Easy:** Diagnosing a common illness (TN 10)
 - **Moderate:** Performing basic surgery (TN 15)
@@ -498,7 +498,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Conducting a complex surgical procedure (TN 25)
 - **Nearly Impossible:** Developing a cure for an unknown virus (TN 30)
 
-#### Science (LOG)
+#### Science (INT)
 - **Very Easy:** Conducting a simple experiment (TN 5)
 - **Easy:** Identifying common substances (TN 10)
 - **Moderate:** Analyzing complex data (TN 15)
@@ -506,7 +506,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Theorizing a new scientific principle (TN 25)
 - **Nearly Impossible:** Proving a theory of everything (TN 30)
 
-#### Mysticism (LOG)
+#### Mysticism (INT)
 - **Very Easy:** Recognizing basic symbols (TN 5)
 - **Easy:** Performing a simple ritual (TN 10)
 - **Moderate:** Interpreting ancient texts (TN 15)
@@ -576,7 +576,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 
 ### Miscellaneous Skills
 
-#### Crafting (LOG)
+#### Crafting (INT)
 - **Very Easy:** Assembling simple items (TN 5)
 - **Easy:** Creating basic tools (TN 10)
 - **Moderate:** Crafting quality goods (TN 15)
@@ -584,7 +584,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Mastering a complex craft (TN 25)
 - **Nearly Impossible:** Crafting legendary artifacts (TN 30)
 
-#### Driving (AGI)
+#### Driving (DEX)
 - **Very Easy:** Driving on a straight road (TN 5)
 - **Easy:** Navigating light traffic (TN 10)
 - **Moderate:** Maneuvering through city streets (TN 15)
@@ -592,7 +592,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** High-speed chases (TN 25)
 - **Nearly Impossible:** Performing extreme stunts (TN 30)
 
-#### Lockpicking (AGI)
+#### Lockpicking (DEX)
 - **Very Easy:** Picking a basic lock (TN 5)
 - **Easy:** Unlocking a standard door (TN 10)
 - **Moderate:** Disabling a security system (TN 15)
@@ -600,7 +600,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Breaking into a high-security facility (TN 25)
 - **Nearly Impossible:** Defeating cutting-edge security (TN 30)
 
-#### Mechanics (LOG)
+#### Mechanics (INT)
 - **Very Easy:** Fixing a simple device (TN 5)
 - **Easy:** Repairing common machinery (TN 10)
 - **Moderate:** Overhauling an engine (TN 15)
@@ -608,7 +608,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Innovating new mechanical systems (TN 25)
 - **Nearly Impossible:** Restoring ancient, unknown machinery (TN 30)
 
-#### Pilot (AGI)
+#### Pilot (DEX)
 - **Very Easy:** Flying in clear skies (TN 5)
 - **Easy:** Maneuvering through light turbulence (TN 10)
 - **Moderate:** Navigating a busy spaceport (TN 15)
@@ -616,7 +616,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Evading enemy fire in combat (TN 25)
 - **Nearly Impossible:** Performing evasive maneuvers at light speed (TN 30)
 
-#### Zero-G Maneuvering (AGI)
+#### Zero-G Maneuvering (DEX)
 - **Very Easy:** Moving in zero gravity (TN 5)
 - **Easy:** Basic EVA (extravehicular activity) (TN 10)
 - **Moderate:** Navigating a debris field (TN 15)
@@ -624,7 +624,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Performing complex maneuvers in combat (TN 25)
 - **Nearly Impossible:** Conducting a zero-G battle (TN 30)
 
-#### Xenology (LOG)
+#### Xenology (INT)
 - **Very Easy:** Recognizing common alien species (TN 5)
 - **Easy:** Understanding basic alien customs (TN 10)
 - **Moderate:** Communicating in an alien language (TN 15)
@@ -632,7 +632,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Negotiating with an alien culture (TN 25)
 - **Nearly Impossible:** Mastering alien philosophy (TN 30)
 
-#### Astrogation (LOG)
+#### Astrogation (INT)
 - **Very Easy:** Plotting a simple course (TN 5)
 - **Easy:** Navigating familiar space routes (TN 10)
 - **Moderate:** Charting a new star system (TN 15)
@@ -640,7 +640,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Calculating hyperspace jumps (TN 25)
 - **Nearly Impossible:** Mapping uncharted galaxies (TN 30)
 
-#### Energy Weapons (AGI)
+#### Energy Weapons (DEX)
 - **Very Easy:** Firing at a stationary target (TN 5)
 - **Easy:** Hitting a moving target at short range (TN 10)
 - **Moderate:** Shooting a target at medium range (TN 15)
@@ -648,7 +648,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Sniping a target at long range (TN 25)
 - **Nearly Impossible:** Shooting a tiny moving target in the dark (TN 30)
 
-#### Gunnery (AGI)
+#### Gunnery (DEX)
 - **Very Easy:** Firing ship-mounted weapons (TN 5)
 - **Easy:** Targeting a nearby ship (TN 10)
 - **Moderate:** Engaging in ship-to-ship combat (TN 15)

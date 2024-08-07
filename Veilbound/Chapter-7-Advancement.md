@@ -33,7 +33,7 @@ You can take multiple focuses per advancement, but not for the same skill.
 Attributes are crucial for your character’s performance and can be increased up to the racial maximum (12 for Humans).
 
 #### Cost
-- **Attribute Cost:** Desired rank * 10 points
+- **Attribute Cost:** Current rank in points
 
 ### Courage
 
@@ -41,13 +41,6 @@ Courage points are vital for performing heroic feats and can be increased to enh
 
 #### Cost
 - **Courage Cost:** 3 points per courage point
-
-### Edges
-
-Edges provide unique advantages or abilities to your character. The cost of edges varies and is listed individually.
-
-#### Cost
-- **Edge Cost:** Edges cost 3 per edge
 
 ## Example Advancement Costs
 
@@ -69,15 +62,19 @@ Edges provide unique advantages or abilities to your character. The cost of edge
 
 ### Attributes
 
-Attributes are straightforward to upgrade. The cost to increase an attribute is calculated by multiplying the desired rank by 10.
+Attributes are straightforward to upgrade. The cost to increase an attribute is calculated by multiplying the desired rank by 1.
 
 #### Example
-- **Increasing Agility from 7 to 8:** 8 * 10 = 80 points
+- **Increasing Agility from 14 to 15:** 14 * 1 = 14 points
 
 #### Training Time
 - Unless told otherwise it takes 1 week per point of the current skill for each level you increase a skill. 4->5= 4 weeks
 - A focus takes two weeks. 
 - Raising an attribute takes 1 week per point it is at presently so 8->9 = 8 weeks
+
+#### Trainer (Optional)
+- An optional rule for Gamemasters require a trainer to have the skill level you are aiming for when going for skill 6+
+- So to get Mechanics 7 you would need to find someone in the Game that has Mechanics 7+ already in order to train you.
 
 ### Building a Character Entirely by Points
 
