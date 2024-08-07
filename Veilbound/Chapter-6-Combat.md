@@ -68,6 +68,19 @@ Once all characters have taken their turns, a new round begins. Repeat the proce
 Reactions are actions you can take outside your turn in response to specific triggers.
 - **Example:** Dodging an incoming attack or making an opportunity attack when an enemy moves out of your reach.
 
+In Gen6 rather than enemies rolling to hit you they have a fixed attack number, and you roll your Quickness to dodge the attack. 
+
+For Melee and Brawling the player can add their ranks of Brawl or Melee Combat to their quickness rolls. 
+
+For Ranged Combat their best hope is likely to take cover behind something to avoid getting hit, few people can dodge bullets.
+
+**Example**
+Denia is fighting a vampire in a forgotten library. The Vampire has the initiative and announces they are going to attack Denia. 
+
+The Vampire has an 8 Melee Attack and a PHY DM of +2 so they have a total of 10. The flat attack is 10 + Attribute DM + Skill Ranks + Other modifiers.
+
+So the Vampire has a 20 TN for Denia to dodge. Denia is pretty quick with a +3 modifier to Quickness but Vampires are supernaturally fast creatures dodging one as a mere mortal is a real task. Denia makes their reaction and dodges the attack rolling a 12 with their 3 DM they have a 15. Meaning the Vampire hit with its claw attack doing 2d6 +2 points of Health Damage. 
+
 ## Combat Modifiers
 
 ### Close Combat

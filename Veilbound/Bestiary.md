@@ -33,9 +33,7 @@ Vampires are undead creatures that subsist on the blood of the living. They poss
 **Health Points:** 40  
 **Quickness:** 15  
 **Stamina:** 18  
-**Savvy:** 12  
 **Willpower:** 11  
-**Courage:** 4
 
 ### Role in Setting
 Vampires often serve as enforcers within the Blood Pact, ensuring that their kind follow the rules to maintain the Veil. They are both respected and feared among the Awakened.
@@ -82,9 +80,7 @@ Werewolves are shape-shifters with the ability to transform into powerful wolf-l
 **Health Points:** 38  
 **Quickness:** 14  
 **Stamina:** 16  
-**Savvy:** 9  
 **Willpower:** 10  
-**Courage:** 3
 
 ### Role in Setting
 Werewolves are protectors of their territory and members of the Wild Hunt. They often clash with other factions over territory and honor.
@@ -131,9 +127,7 @@ Ghosts are the spirits of the deceased who have not moved on. They are often bou
 **Health Points:** 20 (spiritual essence)  
 **Quickness:** 10  
 **Stamina:** 0  
-**Savvy:** 8  
 **Willpower:** 12  
-**Courage:** 2
 
 ### Role in Setting
 Ghosts often serve as tragic figures or warnings of past atrocities. They may provide crucial information or act as antagonists bound to specific locations.
@@ -178,9 +172,7 @@ Demons are malevolent supernatural entities that exist to corrupt and destroy. T
 **Health Points:** 45  
 **Quickness:** 14  
 **Stamina:** 18  
-**Savvy:** 10  
 **Willpower:** 13  
-**Courage:** 4
 
 ### Role in Setting
 Demons are often antagonists, working behind the scenes to manipulate events and corrupt individuals. They are feared by both Mundus and Awakened alike.
@@ -227,9 +219,7 @@ The Fae are magical beings from otherworldly realms, often associated with natur
 **Health Points:** 30  
 **Quickness:** 15  
 **Stamina:** 12  
-**Savvy:** 14  
 **Willpower:** 15  
-**Courage:** 3
 
 ### Role in Setting
 The Fae are often involved in intricate plots and schemes, sometimes aiding the Awakened while other times pursuing their own inscrutable goals. They are tied to nature and ancient magic.
@@ -276,9 +266,7 @@ Ghouls are undead creatures that feed on corpses. They are stronger and more res
 **Health Points:** 35  
 **Quickness:** 10  
 **Stamina:** 15  
-**Savvy:** 5  
 **Willpower:** 8  
-**Courage:** 2
 
 ### Role in Setting
 Ghouls are typically found in graveyards and crypts, preying on the dead and the unwary. They are often used by necromancers and dark magicians as minions.
@@ -325,9 +313,7 @@ Witches are humans who have mastered the arcane arts. They can be found in both 
 **Health Points:** 25  
 **Quickness:** 11  
 **Stamina:** 10  
-**Savvy:** 12  
 **Willpower:** 14  
-**Courage:** 3
 
 ### Role in Setting
 Witches can be allies or antagonists, depending on their alignment and goals. They often serve as healers, advisors, or powerful enemies.
@@ -376,9 +362,7 @@ Liches are powerful undead sorcerers who have achieved immortality through dark 
 **Health Points:** 40  
 **Quickness:** 12  
 **Stamina:** 14  
-**Savvy:** 15  
 **Willpower:** 18  
-**Courage:** 5
 
 ### Role in Setting
 Liches are often the main antagonists in stories involving necromancy and dark magic. They are leaders of undead armies and orchestrators of complex schemes.
@@ -423,9 +407,7 @@ Shadows are incorporeal beings that thrive in darkness and feed on fear. They ar
 **Health Points:** 25 (spiritual essence)  
 **Quickness:** 15  
 **Stamina:** 0  
-**Savvy:** 10  
 **Willpower:** 13  
-**Courage:** 2
 
 ### Role in Setting
 Shadows are often used as assassins or guards in dark places. They are feared by the Mundus and respected by the Awakened for their deadly efficiency.
@@ -472,9 +454,7 @@ Djinn are supernatural beings capable of great magic, often associated with gran
 **Health Points:** 40  
 **Quickness:** 18  
 **Stamina:** 15  
-**Savvy:** 17  
 **Willpower:** 15  
-**Courage:** 4
 
 ### Role in Setting
 Djinn are rare and powerful beings, often sought after for their wish-granting abilities. They are respected and feared by both the Mundus and the Awakened.
@@ -521,9 +501,7 @@ Banshees are ghostly women whose wails foretell death. They are often the spirit
 **Health Points:** 20 (spiritual essence)  
 **Quickness:** 12  
 **Stamina:** 0  
-**Savvy:** 11  
 **Willpower:** 14  
-**Courage:** 3
 
 ### Role in Setting
 Banshees are often found in places of great tragedy, serving as omens or vengeful spirits. They are feared by the Mundus and seen as potent warnings by the Awakened.
@@ -570,9 +548,7 @@ Wendigos are monstrous creatures born from curses or dark rituals, embodying the
 **Health Points:** 45  
 **Quickness:** 14  
 **Stamina:** 16  
-**Savvy:** 6  
 **Willpower:** 10  
-**Courage:** 3
 
 ### Role in Setting
 Wendigos are feared legends in many cultures, often used to explain disappearances and deaths in the wilderness. They are solitary predators, posing significant threats to isolated communities.
@@ -617,9 +593,7 @@ Poltergeists are restless spirits that cause physical disturbances, often throwi
 **Health Points:** 25 (spiritual essence)  
 **Quickness:** 12  
 **Stamina:** 0  
-**Savvy:** 10  
 **Willpower:** 13  
-**Courage:** 2
 
 ### Role in Setting
 Poltergeists are often found in haunted locations, where they create disturbances and chaos. They are feared by the Mundus and considered nuisances by the Awakened.
@@ -665,9 +639,7 @@ Golems are magically animated constructs created to serve and protect. They are 
 **Health Points:** 50  
 **Quickness:** 10  
 **Stamina:** 20  
-**Savvy:** 5  
 **Willpower:** 12  
-**Courage:** 0
 
 ### Role in Setting
 Golems are used by powerful mages and alchemists to protect valuable locations or perform heavy labor. They are respected and feared for their immense strength and resilience.
@@ -714,9 +686,7 @@ Doppelgängers are shapeshifters who can take on the appearance and voice of oth
 **Health Points:** 35  
 **Quickness:** 15  
 **Stamina:** 14  
-**Savvy:** 18  
 **Willpower:** 12  
-**Courage:** 3
 
 ### Role in Setting
 Doppelgängers are often employed as spies and infiltrators, causing confusion and mistrust. They are both feared and sought after for their unique abilities.
@@ -763,9 +733,7 @@ Manticores are mythical creatures known for their deadly combination of strength
 **Health Points:** 45  
 **Quickness:** 16  
 **Stamina:** 18  
-**Savvy:** 14  
 **Willpower:** 12  
-**Courage:** 4
 
 ### Role in Setting
 Manticores are apex predators, often found in isolated, difficult-to-reach locations. They are both feared and respected by those who live near their territory.
@@ -814,9 +782,7 @@ Wraiths are vengeful spirits that drain the life force of the living. They are o
 **Health Points:** 30 (spiritual essence)  
 **Quickness:** 12  
 **Stamina:** 0  
-**Savvy:** 13  
 **Willpower:** 15  
-**Courage:** 2
 
 ### Role in Setting
 Wraiths are often found in haunted locations, where they continue to spread their malevolence. They are feared by the Mundus and seen as dangerous by the Awakened.
@@ -863,9 +829,7 @@ The Kraken is a gigantic sea monster with immense strength and multiple tentacle
 **Health Points:** 80  
 **Quickness:** 12  
 **Stamina:** 22  
-**Savvy:** 7  
 **Willpower:** 10  
-**Courage:** 5
 
 ### Role in Setting
 The Kraken is a legendary sea monster, often the subject of maritime myths and stories. It is feared by sailors and adventurers who venture into its territory.
@@ -910,9 +874,7 @@ Harpies are mythical creatures with the body of a bird and the head and torso of
 **Health Points:** 30  
 **Quickness:** 18  
 **Stamina:** 12  
-**Savvy:** 10  
 **Willpower:** 9  
-**Courage:** 3
 
 ### Role in Setting
 Harpies are often found in mountainous or coastal regions, preying on travelers and livestock. They are both feared and reviled for their vicious attacks.
@@ -959,9 +921,7 @@ The Chimera is a hybrid creature with the body and head of a lion, a goat's head
 **Health Points:** 55  
 **Quickness:** 15  
 **Stamina:** 20  
-**Savvy:** 9  
 **Willpower:** 12  
-**Courage:** 4
 
 ### Role in Setting
 Chimeras are rare and dangerous creatures often found in remote, mountainous regions. They are feared for their destructive power and are often the subjects of heroic tales.
@@ -1008,9 +968,7 @@ Nymphs are nature spirits tied to specific natural features like rivers, trees, 
 **Health Points:** 35  
 **Quickness:** 18  
 **Stamina:** 14  
-**Savvy:** 20  
 **Willpower:** 17  
-**Courage:** 3
 
 ### Role in Setting
 Nymphs are often found in pristine natural locations, where they protect and nurture the environment. They can be allies or adversaries, depending on how they are approached.
@@ -1057,9 +1015,7 @@ Basilisks are large serpents known for their deadly gaze and venomous bite. They
 **Health Points:** 45  
 **Quickness:** 14  
 **Stamina:** 16  
-**Savvy:** 13  
 **Willpower:** 15  
-**Courage:** 4
 
 ### Role in Setting
 Basilisks are feared and avoided by both the Mundus and Awakened due to their petrifying abilities. They are often used by dark mages as guardians for valuable treasures.
@@ -1108,9 +1064,7 @@ Gremlins are small, impish creatures that delight in causing mechanical and tech
 **Health Points:** 25  
 **Quickness:** 15  
 **Stamina:** 12  
-**Savvy:** 11  
 **Willpower:** 10  
-**Courage:** 2
 
 ### Role in Setting
 Gremlins are often found in factories, airships, and other places with complex machinery. They are seen as nuisances and pests by the Mundus and a minor threat by the Awakened.
@@ -1157,9 +1111,7 @@ The Hydra is a legendary multi-headed serpent with incredible regenerative power
 **Health Points:** 60  
 **Quickness:** 14  
 **Stamina:** 20  
-**Savvy:** 9  
 **Willpower:** 10  
-**Courage:** 4
 
 ### Role in Setting
 Hydras are often found guarding ancient ruins or hidden treasures. They are feared for their strength and regenerative abilities.
@@ -1206,9 +1158,7 @@ Wights are intelligent undead beings that drain the life force of the living. Th
 **Health Points:** 40  
 **Quickness:** 12  
 **Stamina:** 15  
-**Savvy:** 10  
 **Willpower:** 13  
-**Courage:** 3
 
 ### Role in Setting
 Wights are often found in ancient crypts and tombs, guarding their treasures or serving dark necromancers. They are feared by the Mundus and respected by the Awakened for their power and intelligence.
