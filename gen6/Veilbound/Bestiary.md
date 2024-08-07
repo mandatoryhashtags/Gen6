@@ -12,10 +12,10 @@ Welcome to the Bestiary for **Veilbound**, where we delve into the most iconic c
 Vampires are undead creatures that subsist on the blood of the living. They possess supernatural strength, speed, and regenerative abilities. While many vampires abide by the rules of the Blood Pact, rogue vampires can pose significant threats to the Mundus.
 
 ### Combat Stats
-- **Physical:** 10 (+2)
-- **Agility:** 12 (+3)
-- **Vitality:** 14 (+4)
-- **Logic:** 8 (+1)
+- **Strength:** 10 (+2)
+- **Dexterity:** 12 (+3)
+- **Constitution:** 14 (+4)
+- **Intelligence:** 8 (+1)
 - **Perception:** 10 (+2)
 - **Social:** 10 (+2)
 
@@ -34,7 +34,6 @@ Vampires are undead creatures that subsist on the blood of the living. They poss
 - **Quickness:** 13  
 - **Stamina:** 14  
 - **Willpower:** 12  
-- **Attack:** Melee: 20, Ranged: 13
 
 ### Role in Setting
 Vampires often serve as enforcers within the Blood Pact, ensuring that their kind follow the rules to maintain the Veil. They are both respected and feared among the Awakened.
@@ -60,10 +59,10 @@ Vampires often serve as enforcers within the Blood Pact, ensuring that their kin
 Werewolves are shape-shifters with the ability to transform into powerful wolf-like creatures. They are part of the Wild Hunt and value strength, loyalty, and the pack mentality.
 
 ### Combat Stats
-- **Physical:** 14 (+4)
-- **Agility:** 10 (+2)
-- **Vitality:** 12 (+3)
-- **Logic:** 7 (+0)
+- **Strength:** 14 (+4)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 12 (+3)
+- **Intelligence:** 7 (+0)
 - **Perception:** 12 (+3)
 - **Social:** 8 (+1)
 
@@ -74,7 +73,7 @@ Werewolves are shape-shifters with the ability to transform into powerful wolf-l
 - **Stealth:** 4
 
 **Abilities:**
-- **Transformation:** Can shift between human and wolf forms. In wolf form, add +2 to Physical and Agility.
+- **Transformation:** Can shift between human and wolf forms. In wolf form, add +2 to Strength and Dexterity.
 - **Claws/Bite:** 2D+3 damage.
 - **Heightened Senses:** +3 to Perception rolls related to smell and hearing.
 - **Damage Resistance:** Werewolves are resistant to all damage except silver or fire so they take half damage
@@ -83,7 +82,6 @@ Werewolves are shape-shifters with the ability to transform into powerful wolf-l
 - **Quickness:** 12 (13)  
 - **Stamina:** 14  (15)
 - **Willpower:** 13 
-- **Attacks:** Melee: 21 (23), Ranged: 12
 
 ### Role in Setting
 Werewolves are protectors of their territory and members of the Wild Hunt. They often clash with other factions over territory and honor.
@@ -109,10 +107,10 @@ Werewolves are protectors of their territory and members of the Wild Hunt. They 
 Ghosts are the spirits of the deceased who have not moved on. They are often bound to a location or object and can interact with the living world to a limited extent.
 
 ### Combat Stats
-- **Physical:** 0 (-)
-- **Agility:** 8 (+1)
-- **Vitality:** 0 (-)
-- **Logic:** 9 (+1)
+- **Strength:** 0 (-)
+- **Dexterity:** 8 (+1)
+- **Constitution:** 0 (-)
+- **Intelligence:** 9 (+1)
 - **Perception:** 12 (+3)
 - **Social:** 7 (+0)
 
@@ -131,7 +129,6 @@ Ghosts are the spirits of the deceased who have not moved on. They are often bou
 **Quickness:** 11  
 **Stamina:** 0  
 **Willpower:** 13
-**Attacks:**: Melee: 10, Ranged: 11  
 
 ### Role in Setting
 Ghosts often serve as tragic figures or warnings of past atrocities. They may provide crucial information or act as antagonists bound to specific locations.
@@ -155,10 +152,10 @@ Ghosts often serve as tragic figures or warnings of past atrocities. They may pr
 Demons are malevolent supernatural entities that exist to corrupt and destroy. They possess immense power and cunning, often making deals with mortals to spread their influence.
 
 ### Combat Stats
-- **Physical:** 12 (+3)
-- **Agility:** 10 (+2)
-- **Vitality:** 14 (+4)
-- **Logic:** 8 (+1)
+- **Strength:** 12 (+3)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 14 (+4)
+- **Intelligence:** 8 (+1)
 - **Perception:** 12 (+3)
 - **Social:** 9 (+1)
 
@@ -178,7 +175,6 @@ Demons are malevolent supernatural entities that exist to corrupt and destroy. T
 **Quickness:** 12  
 **Stamina:** 14  
 **Willpower:** 13  
-**Attacks:** Melee: 21, Ranged: 12
 
 ### Role in Setting
 Demons are often antagonists, working behind the scenes to manipulate events and corrupt individuals. They are feared by both Mundus and Awakened alike.
@@ -204,10 +200,10 @@ Demons are often antagonists, working behind the scenes to manipulate events and
 The Fae are magical beings from otherworldly realms, often associated with nature and enchantment. They can be benevolent or malevolent, but always follow their own mysterious rules.
 
 ### Combat Stats
-- **Physical:** 8 (+1)
-- **Agility:** 12 (+3)
-- **Vitality:** 10 (+2)
-- **Logic:** 14 (+4)
+- **Strength:** 8 (+1)
+- **Dexterity:** 12 (+3)
+- **Constitution:** 10 (+2)
+- **Intelligence:** 14 (+4)
 - **Perception:** 12 (+3)
 - **Social:** 11 (+2)
 
@@ -251,10 +247,10 @@ The Fae are often involved in intricate plots and schemes, sometimes aiding the 
 Ghouls are undead creatures that feed on corpses. They are stronger and more resilient than zombies, often exhibiting a cunning intelligence.
 
 ### Combat Stats
-- **Physical:** 10 (+2)
-- **Agility:** 8 (+1)
-- **Vitality:** 12 (+3)
-- **Logic:** 6 (+0)
+- **Strength:** 10 (+2)
+- **Dexterity:** 8 (+1)
+- **Constitution:** 12 (+3)
+- **Intelligence:** 6 (+0)
 - **Perception:** 9 (+1)
 - **Social:** 4 (-1)
 
@@ -266,7 +262,7 @@ Ghouls are undead creatures that feed on corpses. They are stronger and more res
 
 **Abilities:**
 - **Claws:** 2D+2 damage.
-- **Bite:** 2D damage, can cause infection (contested Vitality roll).
+- **Bite:** 2D damage, can cause infection (contested Constitution roll).
 - **Undead Resilience:** Ghouls take half damage from non-magical weapons.
 
 **Health Points:** 35  
@@ -298,10 +294,10 @@ Ghouls are typically found in graveyards and crypts, preying on the dead and the
 Witches are humans who have mastered the arcane arts. They can be found in both the Mundus and Awakened worlds, often living on the fringes of society.
 
 ### Combat Stats
-- **Physical:** 6 (+0)
-- **Agility:** 8 (+1)
-- **Vitality:** 7 (+0)
-- **Logic:** 14 (+4)
+- **Strength:** 6 (+0)
+- **Dexterity:** 8 (+1)
+- **Constitution:** 7 (+0)
+- **Intelligence:** 14 (+4)
 - **Perception:** 10 (+2)
 - **Social:** 11 (+2)
 
@@ -347,10 +343,10 @@ Witches can be allies or antagonists, depending on their alignment and goals. Th
 Liches are powerful undead sorcerers who have achieved immortality through dark rituals. They are often the masterminds behind vast necromantic schemes.
 
 ### Combat Stats
-- **Physical:** 6 (+0)
-- **Agility:** 8 (+1)
-- **Vitality:** 10 (+2)
-- **Logic:** 16 (+5)
+- **Strength:** 6 (+0)
+- **Dexterity:** 8 (+1)
+- **Constitution:** 10 (+2)
+- **Intelligence:** 16 (+5)
 - **Perception:** 12 (+3)
 - **Social:** 10 (+2)
 
@@ -392,10 +388,10 @@ Liches are often the main antagonists in stories involving necromancy and dark m
 Shadows are incorporeal beings that thrive in darkness and feed on fear. They are often summoned by dark mages or formed in places of intense suffering.
 
 ### Combat Stats
-- **Physical:** 0 (-)
-- **Agility:** 12 (+3)
-- **Vitality:** 0 (-)
-- **Logic:** 8 (+1)
+- **Strength:** 0 (-)
+- **Dexterity:** 12 (+3)
+- **Constitution:** 0 (-)
+- **Intelligence:** 8 (+1)
 - **Perception:** 12 (+3)
 - **Social:** 7 (+0)
 
@@ -439,10 +435,10 @@ Shadows are often used as assassins or guards in dark places. They are feared by
 Djinn are supernatural beings capable of great magic, often associated with granting wishes. They are bound by their own set of rules and can be both benevolent and malevolent.
 
 ### Combat Stats
-- **Physical:** 10 (+2)
-- **Agility:** 14 (+4)
-- **Vitality:** 12 (+3)
-- **Logic:** 10 (+2)
+- **Strength:** 10 (+2)
+- **Dexterity:** 14 (+4)
+- **Constitution:** 12 (+3)
+- **Intelligence:** 10 (+2)
 - **Perception:** 14 (+4)
 - **Social:** 12 (+3)
 
@@ -486,10 +482,10 @@ Djinn are rare and powerful beings, often sought after for their wish-granting a
 Banshees are ghostly women whose wails foretell death. They are often the spirits of women who died tragically and remain bound to the mortal world by their grief and rage.
 
 ### Combat Stats
-- **Physical:** 0 (-)
-- **Agility:** 10 (+2)
-- **Vitality:** 0 (-)
-- **Logic:** 9 (+1)
+- **Strength:** 0 (-)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 0 (-)
+- **Intelligence:** 9 (+1)
 - **Perception:** 14 (+4)
 - **Social:** 8 (+1)
 
@@ -533,10 +529,10 @@ Banshees are often found in places of great tragedy, serving as omens or vengefu
 Wendigos are monstrous creatures born from curses or dark rituals, embodying the essence of hunger and cannibalism. They are often found in remote, forested areas.
 
 ### Combat Stats
-- **Physical:** 14 (+4)
-- **Agility:** 10 (+2)
-- **Vitality:** 12 (+3)
-- **Logic:** 6 (+0)
+- **Strength:** 14 (+4)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 12 (+3)
+- **Intelligence:** 6 (+0)
 - **Perception:** 12 (+3)
 - **Social:** 4 (-1)
 
@@ -549,7 +545,7 @@ Wendigos are monstrous creatures born from curses or dark rituals, embodying the
 **Abilities:**
 - **Claws/Bite:** 3D damage.
 - **Regeneration:** Wendigos regenerate 1D HP per round unless damaged by fire.
-- **Winter’s Chill:** Can cause frostbite, dealing 2D cold damage and reducing target’s Agility by 2.
+- **Winter’s Chill:** Can cause frostbite, dealing 2D cold damage and reducing target’s Dexterity by 2.
 
 **Health Points:** 45  
 **Quickness:** 14  
@@ -578,10 +574,10 @@ Wendigos are feared legends in many cultures, often used to explain disappearanc
 Poltergeists are restless spirits that cause physical disturbances, often throwing objects and creating chaos. They are typically found in places of intense emotional energy or trauma.
 
 ### Combat Stats
-- **Physical:** 0 (-)
-- **Agility:** 10 (+2)
-- **Vitality:** 0 (-)
-- **Logic:** 8 (+1)
+- **Strength:** 0 (-)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 0 (-)
+- **Intelligence:** 8 (+1)
 - **Perception:** 12 (+3)
 - **Social:** 7 (+0)
 
@@ -625,10 +621,10 @@ Poltergeists are often found in haunted locations, where they create disturbance
 Golems are magically animated constructs created to serve and protect. They are typically used as guards or laborers and can be made from various materials.
 
 ### Combat Stats
-- **Physical:** 16 (+5)
-- **Agility:** 6 (+0)
-- **Vitality:** 18 (+6)
-- **Logic:** 4 (-1)
+- **Strength:** 16 (+5)
+- **Dexterity:** 6 (+0)
+- **Constitution:** 18 (+6)
+- **Intelligence:** 4 (-1)
 - **Perception:** 8 (+1)
 - **Social:** 0 (-)
 
@@ -657,7 +653,7 @@ Golems are used by powerful mages and alchemists to protect valuable locations o
 
 ### Tips for Hunters
 - **Dispel Magic:** Can deactivate a golem if cast correctly.
-- **Speed and Agility:** Use speed and agility to avoid their slow, powerful attacks.
+- **Speed and Dexterity:** Use speed and agility to avoid their slow, powerful attacks.
 - **Target the Runes:** Look for and damage the magical runes that animate them.
 - **Elemental Attacks:** Use fire or acid to slowly wear down their tough exterior.
 
@@ -671,10 +667,10 @@ Golems are used by powerful mages and alchemists to protect valuable locations o
 Doppelgängers are shapeshifters who can take on the appearance and voice of others. They use their abilities for deception, infiltration, and manipulation.
 
 ### Combat Stats
-- **Physical:** 10 (+2)
-- **Agility:** 12 (+3)
-- **Vitality:** 10 (+2)
-- **Logic:** 12 (+3)
+- **Strength:** 10 (+2)
+- **Dexterity:** 12 (+3)
+- **Constitution:** 10 (+2)
+- **Intelligence:** 12 (+3)
 - **Perception:** 12 (+3)
 - **Social:** 14 (+4)
 
@@ -718,10 +714,10 @@ Doppelgängers are often employed as spies and infiltrators, causing confusion a
 Manticores are mythical creatures known for their deadly combination of strength, flight, and venomous spines. They are formidable predators found in remote, mountainous regions.
 
 ### Combat Stats
-- **Physical:** 14 (+4)
-- **Agility:** 12 (+3)
-- **Vitality:** 12 (+3)
-- **Logic:** 8 (+1)
+- **Strength:** 14 (+4)
+- **Dexterity:** 12 (+3)
+- **Constitution:** 12 (+3)
+- **Intelligence:** 8 (+1)
 - **Perception:** 12 (+3)
 - **Social:** 6 (+0)
 
@@ -733,7 +729,7 @@ Manticores are mythical creatures known for their deadly combination of strength
 
 **Abilities:**
 - **Claws/Bite:** 3D+2 damage.
-- **Venomous Spines:** 2D damage, causes paralysis (contested Vitality roll).
+- **Venomous Spines:** 2D damage, causes paralysis (contested Constitution roll).
 - **Flight:** Can fly at a speed of 40 mph.
 
 **Health Points:** 45  
@@ -765,10 +761,10 @@ Manticores are apex predators, often found in isolated, difficult-to-reach locat
 Wraiths are vengeful spirits that drain the life force of the living. They are often found in places of great sorrow or tragedy, bound by their unending anger.
 
 ### Combat Stats
-- **Physical:** 0 (-)
-- **Agility:** 10 (+2)
-- **Vitality:** 0 (-)
-- **Logic:** 9 (+1)
+- **Strength:** 0 (-)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 0 (-)
+- **Intelligence:** 9 (+1)
 - **Perception:**
 
  14 (+4)
@@ -814,10 +810,10 @@ Wraiths are often found in haunted locations, where they continue to spread thei
 The Kraken is a gigantic sea monster with immense strength and multiple tentacles. It dwells in the deep ocean and is capable of dragging entire ships beneath the waves.
 
 ### Combat Stats
-- **Physical:** 18 (+6)
-- **Agility:** 8 (+1)
-- **Vitality:** 20 (+7)
-- **Logic:** 6 (+0)
+- **Strength:** 18 (+6)
+- **Dexterity:** 8 (+1)
+- **Constitution:** 20 (+7)
+- **Intelligence:** 6 (+0)
 - **Perception:** 10 (+2)
 - **Social:** 5 (-)
 
@@ -847,7 +843,7 @@ The Kraken is a legendary sea monster, often the subject of maritime myths and s
 
 ### Tips for Hunters
 - **Range Attacks:** Use ranged weapons to attack from a distance, avoiding its tentacles.
-- **Speed and Agility:** Outmaneuver the Kraken with fast and agile ships.
+- **Speed and Dexterity:** Outmaneuver the Kraken with fast and agile ships.
 - **Distraction:** Use noise and light to distract and confuse the Kraken.
 - **Elemental Magic:** Use lightning or fire to exploit its fear of these elements.
 
@@ -859,10 +855,10 @@ The Kraken is a legendary sea monster, often the subject of maritime myths and s
 Harpies are mythical creatures with the body of a bird and the head and torso of a woman. They are known for their savage nature and predatory behavior.
 
 ### Combat Stats
-- **Physical:** 10 (+2)
-- **Agility:** 14 (+4)
-- **Vitality:** 8 (+1)
-- **Logic:** 6 (+0)
+- **Strength:** 10 (+2)
+- **Dexterity:** 14 (+4)
+- **Constitution:** 8 (+1)
+- **Intelligence:** 6 (+0)
 - **Perception:** 12 (+3)
 - **Social:** 7 (+0)
 
@@ -906,10 +902,10 @@ Harpies are often found in mountainous or coastal regions, preying on travelers 
 The Chimera is a hybrid creature with the body and head of a lion, a goat's head protruding from its back, and a serpent for a tail. It is known for its ferocity and its ability to breathe fire.
 
 ### Combat Stats
-- **Physical:** 16 (+5)
-- **Agility:** 10 (+2)
-- **Vitality:** 14 (+4)
-- **Logic:** 6 (+0)
+- **Strength:** 16 (+5)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 14 (+4)
+- **Intelligence:** 6 (+0)
 - **Perception:** 10 (+2)
 - **Social:** 5 (-)
 
@@ -922,7 +918,7 @@ The Chimera is a hybrid creature with the body and head of a lion, a goat's head
 **Abilities:**
 - **Fire Breath:** 3D fire damage in a 15-foot cone.
 - **Claws/Bite:** 3D+3 damage.
-- **Venomous Bite:** 2D poison damage, causes paralysis (contested Vitality roll).
+- **Venomous Bite:** 2D poison damage, causes paralysis (contested Constitution roll).
 
 **Health Points:** 55  
 **Quickness:** 15  
@@ -953,10 +949,10 @@ Chimeras are rare and dangerous creatures often found in remote, mountainous reg
 Nymphs are nature spirits tied to specific natural features like rivers, trees, or mountains. They are known for their beauty and grace, as well as their protective nature.
 
 ### Combat Stats
-- **Physical:** 8 (+1)
-- **Agility:** 12 (+3)
-- **Vitality:** 10 (+2)
-- **Logic:** 14 (+4)
+- **Strength:** 8 (+1)
+- **Dexterity:** 12 (+3)
+- **Constitution:** 10 (+2)
+- **Intelligence:** 14 (+4)
 - **Perception:** 14 (+4)
 - **Social:** 16 (+5)
 
@@ -1000,10 +996,10 @@ Nymphs are often found in pristine natural locations, where they protect and nur
 Basilisks are large serpents known for their deadly gaze and venomous bite. They are often found in dark, subterranean environments.
 
 ### Combat Stats
-- **Physical:** 12 (+3)
-- **Agility:** 10 (+2)
-- **Vitality:** 12 (+3)
-- **Logic:** 8 (+1)
+- **Strength:** 12 (+3)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 12 (+3)
+- **Intelligence:** 8 (+1)
 - **Perception:** 14 (+4)
 - **Social:** 6 (+0)
 
@@ -1015,7 +1011,7 @@ Basilisks are large serpents known for their deadly gaze and venomous bite. They
 
 **Abilities:**
 - **Petrifying Gaze:** Turns a target to stone, contested by Willpower.
-- **Venomous Bite:** 3D poison damage, causes paralysis (contested Vitality roll).
+- **Venomous Bite:** 3D poison damage, causes paralysis (contested Constitution roll).
 - **Camouflage:** Can blend with its surroundings, gaining a +2 to Stealth.
 
 **Health Points:** 45  
@@ -1047,10 +1043,10 @@ Basilisks are feared and avoided by both the Mundus and Awakened due to their pe
 Gremlins are small, impish creatures that delight in causing mechanical and technological havoc. They are often found in places with complex machinery.
 
 ### Combat Stats
-- **Physical:** 6 (+0)
-- **Agility:** 12 (+3)
-- **Vitality:** 8 (+1)
-- **Logic:** 10 (+2)
+- **Strength:** 6 (+0)
+- **Dexterity:** 12 (+3)
+- **Constitution:** 8 (+1)
+- **Intelligence:** 10 (+2)
 - **Perception:** 10 (+2)
 -
 
@@ -1096,10 +1092,10 @@ Gremlins are often found in factories, airships, and other places with complex m
 The Hydra is a legendary multi-headed serpent with incredible regenerative powers. It is often found near water sources or in swampy regions.
 
 ### Combat Stats
-- **Physical:** 14 (+4)
-- **Agility:** 10 (+2)
-- **Vitality:** 16 (+5)
-- **Logic:** 6 (+0)
+- **Strength:** 14 (+4)
+- **Dexterity:** 10 (+2)
+- **Constitution:** 16 (+5)
+- **Intelligence:** 6 (+0)
 - **Perception:** 10 (+2)
 - **Social:** 5 (-)
 
@@ -1143,10 +1139,10 @@ Hydras are often found guarding ancient ruins or hidden treasures. They are fear
 Wights are intelligent undead beings that drain the life force of the living. They often retain their combat skills and knowledge from life.
 
 ### Combat Stats
-- **Physical:** 10 (+2)
-- **Agility:** 8 (+1)
-- **Vitality:** 12 (+3)
-- **Logic:** 10 (+2)
+- **Strength:** 10 (+2)
+- **Dexterity:** 8 (+1)
+- **Constitution:** 12 (+3)
+- **Intelligence:** 10 (+2)
 - **Perception:** 12 (+3)
 - **Social:** 8 (+1)
 
