@@ -32,7 +32,7 @@ Roll 2d6 six times and assign the results to your character's six primary attrib
 - **Social:** Reflects ability to interact with others, including charm and persuasion.
 
 #### **Step 3: Spend Skill Points**
-You have 20 skill points to distribute among your skills. No skill may be higher than +5 at character creation. Also, gain one more Edge. Skills cost 1 per during character creation but cost more afterward. 
+You have 20 skill points to distribute among your skills. No skill may be higher than +5 at character creation. Skills cost 1 per during character creation but cost more afterward. 
 
 #### **Step 4: Calculate Derived Numbers**
 Calculate your character's derived attributes based on the following formulas:
@@ -41,4 +41,6 @@ Calculate your character's derived attributes based on the following formulas:
 - **Willpower:** Your highest modifier from either Social or Perception. This is the TN for overcoming logic puzzles, resisting mind control, and certain other effects.
 - **Health Points (HP):** Your Vitality value + your Physical modifier + 20.
 - **Courage:** All characters start with a Courage score of 3.
+
+> If the GM wants a more dangerous game half the HP bonus, if they want a deadly game remove HP and have the characters take damage to their Vitality to 0 and then either their Agility or Physical. When the second one reaches 0, they are unconcious, if the third drops to 0 they are dead. This is deadlier because they start taking negatives on rolls really fast.
 
