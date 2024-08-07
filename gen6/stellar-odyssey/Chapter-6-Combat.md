@@ -13,6 +13,8 @@ Place characters and enemies on the battlefield. Establishing positions helps cl
 ### 3. Roll Initiative
 Initiative in Gen6 uses side initiative. Starting to the left of the Game Master (GM), a player rolls for their side, and the GM rolls for the enemies. The next time an initiative roll is needed, it goes to the next player to the left. Turns alternate between sides, going clockwise around the table.
 
+Initiative is 3D+Quickness
+
 ### 4. Take Turns
 Players and enemies take turns based on the initiative order. Each turn, a character can perform actions such as moving, attacking, or using items.
 
@@ -22,7 +24,7 @@ Once all characters have taken their turns, a new round begins. Repeat the proce
 ## Combat Round
 
 ### Initiative
-- **Roll:** 3d6
+- **Roll:** 3D+Quickness
 - **Side Initiative:** One player rolls for their side, and the GM rolls for their side. Turns alternate between sides.
 
 ### Actions
@@ -32,9 +34,9 @@ Once all characters have taken their turns, a new round begins. Repeat the proce
 - **Example:** Moving from cover to engage an enemy.
 
 #### Attack
-- **Roll:** 3d6 + Ability Modifier + Skill Ranks
+- **Roll:** 3D + Ability Modifier + Skill Ranks
 - **Target Number (TN):** Opponent's Defense + Range Modifier + Other Factors
-- **Example:** A character with Agility 3 and Firearms 2 attacking a target with Defense 12 at medium range (TN +2) rolls 3d6 + 3 + 2 vs. TN 14.
+- **Example:** A character with Agility 3 and Firearms 2 attacking a target with Defense 12 at medium range (TN +2) rolls 3D + 3 + 2 vs. TN 14.
 
 #### Aim
 - **Description:** Spend your action aiming. You get +1 to Melee Combat or +3 to Firearms/Archery skills for your next attack.
@@ -68,7 +70,23 @@ Once all characters have taken their turns, a new round begins. Repeat the proce
 Reactions are actions you can take outside your turn in response to specific triggers.
 - **Example:** Dodging an incoming attack or making an opportunity attack when an enemy moves out of your reach.
 
+In Gen6 rather than enemies rolling to hit you they have a fixed attack number, and you roll your Quickness to dodge the attack. 
+
+For Melee and Brawling the player can add their ranks of Brawl or Melee Combat to their quickness rolls. 
+
+For Ranged Combat their best hope is likely to take cover behind something to avoid getting hit, few people can dodge bullets.
+
+**Example**
+Denia is fighting a vampire in a forgotten library. The Vampire has the initiative and announces they are going to attack Denia. 
+
+The Vampire has an 8 Melee Attack and a PHY DM of +2 so they have a total of 10. The flat attack is 10 + Attribute DM + Skill Ranks + Other modifiers.
+
+So the Vampire has a 20 TN for Denia to dodge. Denia is pretty quick with a +3 modifier to Quickness but Vampires are supernaturally fast creatures dodging one as a mere mortal is a real task. Denia makes their reaction and dodges the attack rolling a 12 with their 3 DM they have a 15. Meaning the Vampire hit with its claw attack doing 2D +2 points of Health Damage. 
+
 ## Combat Modifiers
+The following modifiers, modify the Target Number not the number rolled.
+
+So if a character drops prone, when they roll to Dodge (3D+Quickness) that establishes the TN for the enemy, then add 5 to that. (Keep in mind anyone in melee would take -5 off their Target Number to hit them)
 
 ### Close Combat
 | Situation          | TN Modifier |
@@ -79,12 +97,12 @@ Reactions are actions you can take outside your turn in response to specific tri
 | Off Hand Penalty   | +4          |
 
 ### Ranged Combat
-| Range Category | TN Modifier                       |
-| -------------- | --------------------------------- |
-| Point Blank    | -2                                |
-| Short          | 0                                 |
-| Medium         | +2                                |
-| Long           | +4                                |
+| Range Category | TN Modifier |
+| -------------- | ----------- |
+| Point Blank    | -2          |
+| Short          | 0           |
+| Medium         | +2          |
+| Long           | +4          |
 | Extended       | +2 per additional range increment |
 
 | Situation          | TN Modifier |
@@ -94,16 +112,16 @@ Reactions are actions you can take outside your turn in response to specific tri
 | Defender Advantage | +2          |
 | Off Hand Penalty   | +4          |
 
-| Size Modifiers    | TN Modifier |
-| ----------------- | ----------- |
-| Smaller than Tiny | +9          |
-| Tiny              | +8          |
-| Small             | +6          |
-| Medium            | 0           |
-| Large             | -4          |
-| Huge              | -6          |
-| Gargantuan        | -8          |
-| Colossal          | -12         |
+| Size Modifiers    | To hit TN Modifier |
+| ----------------- | ------------------ |
+| Smaller than Tiny | +9                 |
+| Tiny              | +8                 |
+| Small             | +6                 |
+| Medium            | 0                  |
+| Large             | -4                 |
+| Huge              | -6                 |
+| Gargantuan        | -8                 |
+| Colossal          | -12                |
 
 | Target Motion           | TN Modifier |
 | ----------------------- | ----------- |
@@ -170,27 +188,29 @@ When you drop to zero hit points:
 2. Any ongoing effects you were maintaining end.
 3. You begin to bleed out.
 
-Each round after hitting zero, you lose 1 hit point into the negatives. You can go into the negatives up to your Vitality value. Once you reach this limit, you are dead. While death is often permanent, the world of Gen6 is filled with possibilities that might offer a second chance.
+Each round after hitting zero, you begin losing Vitality. When you run out of Vitality you are dead. While death is often permanent, the world of Gen6 is filled with possibilities that might offer a second chance.
+
+> If the GM wants a more dangerous game half the HP bonus, if they want a deadly game remove HP and have the characters take damage to their Vitality to 0 and then either their Agility or Physical. When the second one reaches 0, they are unconcious, if the third drops to 0 they are dead. This is deadlier because they start taking negatives on rolls really fast.
 
 ### Sizes
 
-| Size       | Description                |
-| ---------- | -------------------------- |
-| Tiny       | Smaller than a human child |
-| Small      | Human child size           |
-| Medium     | Human size                 |
-| Large      | Larger than a human        |
-| Huge       | Much larger than a human   |
-| Gargantuan | Enormous creatures         |
-| Colossal   | Massive, towering beings   |
+| Size        | Description              |
+| ----------- | ------------------------ |
+| Tiny        | Smaller than a human child |
+| Small       | Human child size         |
+| Medium      | Human size               |
+| Large       | Larger than a human      |
+| Huge        | Much larger than a human |
+| Gargantuan  | Enormous creatures       |
+| Colossal    | Massive, towering beings |
 
 ## Special Rolls
 
 ### Rolling 18
-If you roll a 6 on all three dice (3d6 = 18), this is a **Critical Success**. In combat, it means you deal maximum damage without rolling. For skill checks, you succeed impressively, or at least fail gracefully if success was not possible.
+If you roll a 6 on all three dice (3D = 18), this is a **Critical Success**. In combat, it means you deal maximum damage without rolling. For skill checks, you succeed impressively, or at least fail gracefully if success was not possible.
 
 ### Rolling 3
-If you roll a 1 on all three dice (3d6 = 3), this is a **Fumble**. It always results in a failure. This could mean a weapon jams, you run out of ammo, or you get tongue-tied during a negotiation. In high-risk situations, the GM may decide the failure is dramatically catastrophic.
+If you roll a 1 on all three dice (3D = 3), this is a **Fumble**. It always results in a failure. This could mean a weapon jams, you run out of ammo, or you get tongue-tied during a negotiation. In high-risk situations, the GM may decide the failure is dramatically catastrophic.
 
 ## Courage
 

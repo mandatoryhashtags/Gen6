@@ -47,7 +47,7 @@ Courage points are vital for performing heroic feats and can be increased to enh
 Edges provide unique advantages or abilities to your character. The cost of edges varies and is listed individually.
 
 #### Cost
-- **Edge Cost:** Listed per edge
+- **Edge Cost:** Edges cost 3 per edge
 
 ## Example Advancement Costs
 
@@ -73,6 +73,11 @@ Attributes are straightforward to upgrade. The cost to increase an attribute is 
 
 #### Example
 - **Increasing Agility from 7 to 8:** 8 * 10 = 80 points
+
+#### Training Time
+- Unless told otherwise it takes 1 week per point of the current skill for each level you increase a skill. 4->5= 4 weeks
+- A focus takes two weeks. 
+- Raising an attribute takes 1 week per point it is at presently so 8->9 = 8 weeks
 
 ### Building a Character Entirely by Points
 

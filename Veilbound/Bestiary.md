@@ -26,14 +26,15 @@ Vampires are undead creatures that subsist on the blood of the living. They poss
 - **Occult:** 4
 
 **Abilities:**
-- **Regeneration:** Vampires regenerate 1d6 HP per round unless damaged by fire or sunlight.
-- **Bite:** 2d6+4 damage, heals the vampire for half the damage dealt.
+- **Regeneration:** Vampires regenerate 1D HP per round unless damaged by fire or sunlight.
+- **Bite:** 2D+4 damage, heals the vampire for half the damage dealt.
 - **Hypnotic Gaze:** +3 to Charm rolls when trying to influence or charm Mundus.
 
-**Health Points:** 40  
-**Quickness:** 15  
-**Stamina:** 18  
-**Willpower:** 11  
+- **Health Points:** 40  
+- **Quickness:** 13  
+- **Stamina:** 14  
+- **Willpower:** 12  
+- **Attack:** Melee: 20, Ranged: 13
 
 ### Role in Setting
 Vampires often serve as enforcers within the Blood Pact, ensuring that their kind follow the rules to maintain the Veil. They are both respected and feared among the Awakened.
@@ -74,13 +75,15 @@ Werewolves are shape-shifters with the ability to transform into powerful wolf-l
 
 **Abilities:**
 - **Transformation:** Can shift between human and wolf forms. In wolf form, add +2 to Physical and Agility.
-- **Claws/Bite:** 2d6+3 damage.
+- **Claws/Bite:** 2D+3 damage.
 - **Heightened Senses:** +3 to Perception rolls related to smell and hearing.
+- **Damage Resistance:** Werewolves are resistant to all damage except silver or fire so they take half damage
 
-**Health Points:** 38  
-**Quickness:** 14  
-**Stamina:** 16  
-**Willpower:** 10  
+- **Health Points:** 38  
+- **Quickness:** 12 (13)  
+- **Stamina:** 14  (15)
+- **Willpower:** 13 
+- **Attacks:** Melee: 21 (23), Ranged: 12
 
 ### Role in Setting
 Werewolves are protectors of their territory and members of the Wild Hunt. They often clash with other factions over territory and honor.
@@ -122,12 +125,13 @@ Ghosts are the spirits of the deceased who have not moved on. They are often bou
 **Abilities:**
 - **Incorporeal:** Ghosts can move through solid objects and are immune to physical attacks.
 - **Possession:** Can attempt to possess a living being, contested Willpower roll.
-- **Terrify:** 2d6 psychic damage, causes fear in the target.
+- **Terrify:** 2D psychic damage, causes fear in the target.
 
 **Health Points:** 20 (spiritual essence)  
-**Quickness:** 10  
+**Quickness:** 11  
 **Stamina:** 0  
-**Willpower:** 12  
+**Willpower:** 13
+**Attacks:**: Melee: 10, Ranged: 11  
 
 ### Role in Setting
 Ghosts often serve as tragic figures or warnings of past atrocities. They may provide crucial information or act as antagonists bound to specific locations.
@@ -165,14 +169,16 @@ Demons are malevolent supernatural entities that exist to corrupt and destroy. T
 - **Stealth:** 4
 
 **Abilities:**
-- **Hellfire:** 3d6 fire damage, can be used as a ranged attack.
-- **Possession:** Can attempt to possess a mortal, contested Willpower roll.
-- **Regeneration:** Demons regenerate 1d6 HP per round unless damaged by holy or silver weapons.
+- **Hellfire:** 3D fire damage, can be used as a ranged attack.
+- **Possession:** Can attempt to possess a mortal, contested Willpower roll. (13)
+- **Regeneration:** Demons regenerate 1D HP per round unless damaged by holy or silver weapons.
+- **Damage Resistance:** Demons take half damage from all sources except holy or silver weapons.
 
 **Health Points:** 45  
-**Quickness:** 14  
-**Stamina:** 18  
+**Quickness:** 12  
+**Stamina:** 14  
 **Willpower:** 13  
+**Attacks:** Melee: 21, Ranged: 12
 
 ### Role in Setting
 Demons are often antagonists, working behind the scenes to manipulate events and corrupt individuals. They are feared by both Mundus and Awakened alike.
@@ -213,7 +219,7 @@ The Fae are magical beings from otherworldly realms, often associated with natur
 
 **Abilities:**
 - **Glamour:** Can create powerful illusions, contested by Perception.
-- **Fae Magic:** 3d6 damage, various effects depending on the spell.
+- **Fae Magic:** 3D damage, various effects depending on the spell.
 - **Flight:** Some Fae have wings and can fly, adding +2 to Quickness.
 
 **Health Points:** 30  
@@ -259,8 +265,8 @@ Ghouls are undead creatures that feed on corpses. They are stronger and more res
 - **Intimidation:** 3
 
 **Abilities:**
-- **Claws:** 2d6+2 damage.
-- **Bite:** 2d6 damage, can cause infection (contested Vitality roll).
+- **Claws:** 2D+2 damage.
+- **Bite:** 2D damage, can cause infection (contested Vitality roll).
 - **Undead Resilience:** Ghouls take half damage from non-magical weapons.
 
 **Health Points:** 35  
@@ -306,7 +312,7 @@ Witches are humans who have mastered the arcane arts. They can be found in both 
 - **Stealth:** 4
 
 **Abilities:**
-- **Spellcasting:** 3d6 damage, various effects depending on the spell.
+- **Spellcasting:** 3D damage, various effects depending on the spell.
 - **Hex:** Can curse a target, imposing a -2 penalty on their rolls.
 - **Potion Making:** Can create potions with various effects, from healing to poisoning.
 
@@ -356,7 +362,7 @@ Liches are powerful undead sorcerers who have achieved immortality through dark 
 
 **Abilities:**
 - **Necromancy:** Can raise undead minions to fight.
-- **Life Drain:** 3d6 damage, heals the lich for half the damage dealt.
+- **Life Drain:** 3D damage, heals the lich for half the damage dealt.
 - **Immortality:** Can only be permanently destroyed by destroying their phylactery.
 
 **Health Points:** 40  
@@ -401,7 +407,7 @@ Shadows are incorporeal beings that thrive in darkness and feed on fear. They ar
 
 **Abilities:**
 - **Incorporeal:** Shadows can move through solid objects and are immune to physical attacks.
-- **Fear Touch:** 2d6 psychic damage, causes fear in the target.
+- **Fear Touch:** 2D psychic damage, causes fear in the target.
 - **Darkness Aura:** Can create an area of supernatural darkness, reducing visibility to zero.
 
 **Health Points:** 25 (spiritual essence)  
@@ -448,7 +454,7 @@ Djinn are supernatural beings capable of great magic, often associated with gran
 
 **Abilities:**
 - **Wish Granting:** Can grant up to three wishes with significant consequences.
-- **Elemental Control:** Can control fire and air, dealing 3d6 elemental damage.
+- **Elemental Control:** Can control fire and air, dealing 3D elemental damage.
 - **Teleportation:** Can teleport short distances instantly.
 
 **Health Points:** 40  
@@ -494,7 +500,7 @@ Banshees are ghostly women whose wails foretell death. They are often the spirit
 - **Survival:** 5
 
 **Abilities:**
-- **Wail of Doom:** 3d6 psychic damage to all who hear it, causing fear.
+- **Wail of Doom:** 3D psychic damage to all who hear it, causing fear.
 - **Incorporeal:** Can move through solid objects and are immune to physical attacks.
 - **Curse of Sorrow:** Can place a curse on a target, reducing their Willpower by 2.
 
@@ -541,9 +547,9 @@ Wendigos are monstrous creatures born from curses or dark rituals, embodying the
 - **Intimidation:** 5
 
 **Abilities:**
-- **Claws/Bite:** 3d6 damage.
-- **Regeneration:** Wendigos regenerate 1d6 HP per round unless damaged by fire.
-- **Winter’s Chill:** Can cause frostbite, dealing 2d6 cold damage and reducing target’s Agility by 2.
+- **Claws/Bite:** 3D damage.
+- **Regeneration:** Wendigos regenerate 1D HP per round unless damaged by fire.
+- **Winter’s Chill:** Can cause frostbite, dealing 2D cold damage and reducing target’s Agility by 2.
 
 **Health Points:** 45  
 **Quickness:** 14  
@@ -586,7 +592,7 @@ Poltergeists are restless spirits that cause physical disturbances, often throwi
 - **Insight:** 4
 
 **Abilities:**
-- **Telekinesis:** Can move objects up to 50 lbs, dealing 2d6 damage.
+- **Telekinesis:** Can move objects up to 50 lbs, dealing 2D damage.
 - **Incorporeal:** Can move through solid objects and are immune to physical attacks.
 - **Chaos Aura:** Causes small objects to move erratically, imposing a -2 penalty on nearby skill checks.
 
@@ -633,7 +639,7 @@ Golems are magically animated constructs created to serve and protect. They are 
 
 **Abilities:**
 - **Constructed:** Immune to poison, disease, and mind-affecting effects.
-- **Heavy Slam:** 3d6+4 damage.
+- **Heavy Slam:** 3D+4 damage.
 - **Magical Resistance:** Takes half damage from magical attacks.
 
 **Health Points:** 50  
@@ -681,7 +687,7 @@ Doppelgängers are shapeshifters who can take on the appearance and voice of oth
 **Abilities:**
 - **Shapechange:** Can assume the appearance of anyone they have seen, contested by Perception.
 - **Mimicry:** Can mimic voices and mannerisms perfectly.
-- **Psychic Strike:** 2d6 psychic damage, causes confusion for one round.
+- **Psychic Strike:** 2D psychic damage, causes confusion for one round.
 
 **Health Points:** 35  
 **Quickness:** 15  
@@ -726,8 +732,8 @@ Manticores are mythical creatures known for their deadly combination of strength
 - **Stealth:** 5
 
 **Abilities:**
-- **Claws/Bite:** 3d6+2 damage.
-- **Venomous Spines:** 2d6 damage, causes paralysis (contested Vitality roll).
+- **Claws/Bite:** 3D+2 damage.
+- **Venomous Spines:** 2D damage, causes paralysis (contested Vitality roll).
 - **Flight:** Can fly at a speed of 40 mph.
 
 **Health Points:** 45  
@@ -775,7 +781,7 @@ Wraiths are vengeful spirits that drain the life force of the living. They are o
 - **Survival:** 5
 
 **Abilities:**
-- **Life Drain:** 2d6 necrotic damage, heals the wraith for half the damage dealt.
+- **Life Drain:** 2D necrotic damage, heals the wraith for half the damage dealt.
 - **Incorporeal:** Can move through solid objects and are immune to physical attacks.
 - **Fear Aura:** Causes fear in all living beings within a 10-foot radius, imposing a -2 penalty on rolls.
 
@@ -822,7 +828,7 @@ The Kraken is a gigantic sea monster with immense strength and multiple tentacle
 - **Stealth:** 4
 
 **Abilities:**
-- **Tentacle Attack:** 3d6+5 damage.
+- **Tentacle Attack:** 3D+5 damage.
 - **Capsize:** Can attempt to capsize a vessel, contested by the ship's stability.
 - **Ink Cloud:** Can release a cloud of ink, obscuring vision and imposing a -2 penalty on attacks.
 
@@ -867,8 +873,8 @@ Harpies are mythical creatures with the body of a bird and the head and torso of
 - **Intimidation:** 4
 
 **Abilities:**
-- **Claws:** 2d6+2 damage.
-- **Screech:** 2d6 sonic damage, causes temporary deafness (contested Willpower roll).
+- **Claws:** 2D+2 damage.
+- **Screech:** 2D sonic damage, causes temporary deafness (contested Willpower roll).
 - **Flight:** Can fly at a speed of 30 mph.
 
 **Health Points:** 30  
@@ -914,9 +920,9 @@ The Chimera is a hybrid creature with the body and head of a lion, a goat's head
 - **Stealth:** 4
 
 **Abilities:**
-- **Fire Breath:** 3d6 fire damage in a 15-foot cone.
-- **Claws/Bite:** 3d6+3 damage.
-- **Venomous Bite:** 2d6 poison damage, causes paralysis (contested Vitality roll).
+- **Fire Breath:** 3D fire damage in a 15-foot cone.
+- **Claws/Bite:** 3D+3 damage.
+- **Venomous Bite:** 2D poison damage, causes paralysis (contested Vitality roll).
 
 **Health Points:** 55  
 **Quickness:** 15  
@@ -961,7 +967,7 @@ Nymphs are nature spirits tied to specific natural features like rivers, trees, 
 - **Occult:** 7
 
 **Abilities:**
-- **Nature's Touch:** Heals 2d6 health points.
+- **Nature's Touch:** Heals 2D health points.
 - **Charm Person:** Can charm a target, contested by Willpower.
 - **Blend with Nature:** Can become invisible in natural surroundings.
 
@@ -1009,7 +1015,7 @@ Basilisks are large serpents known for their deadly gaze and venomous bite. They
 
 **Abilities:**
 - **Petrifying Gaze:** Turns a target to stone, contested by Willpower.
-- **Venomous Bite:** 3d6 poison damage, causes paralysis (contested Vitality roll).
+- **Venomous Bite:** 3D poison damage, causes paralysis (contested Vitality roll).
 - **Camouflage:** Can blend with its surroundings, gaining a +2 to Stealth.
 
 **Health Points:** 45  
@@ -1058,7 +1064,7 @@ Gremlins are small, impish creatures that delight in causing mechanical and tech
 
 **Abilities:**
 - **Sabotage:** Can cause mechanical malfunctions, imposing a -2 penalty on related checks.
-- **Electric Shock:** 2d6 electric damage.
+- **Electric Shock:** 2D electric damage.
 - **Escape Artist:** Can escape from bindings and traps with ease.
 
 **Health Points:** 25  
@@ -1104,9 +1110,9 @@ The Hydra is a legendary multi-headed serpent with incredible regenerative power
 - **Stealth:** 5
 
 **Abilities:**
-- **Multi-Headed Attack:** Each head can attack independently, dealing 2d6+2 damage each.
+- **Multi-Headed Attack:** Each head can attack independently, dealing 2D+2 damage each.
 - **Regeneration:** Can regrow heads unless the wounds are cauterized with fire.
-- **Poison Breath:** 3d6 poison damage in a 15-foot cone.
+- **Poison Breath:** 3D poison damage in a 15-foot cone.
 
 **Health Points:** 60  
 **Quickness:** 14  
@@ -1151,7 +1157,7 @@ Wights are intelligent undead beings that drain the life force of the living. Th
 - **Survival:** 5
 
 **Abilities:**
-- **Life Drain:** 2d6 necrotic damage, heals the wight for half the damage dealt.
+- **Life Drain:** 2D necrotic damage, heals the wight for half the damage dealt.
 - **Undead Resilience:** Takes half damage from non-magical weapons.
 - **Fear Aura:** Causes fear in all living beings within a 10-foot radius, imposing a -2 penalty on rolls.
 
