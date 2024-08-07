@@ -40,45 +40,65 @@ Skill levels in Gen6 range from 0 to 9, indicating the depth of a character's kn
 
 **Advancing Skills:** As characters advance in skills up to rank 5, it can be done with a single advancement. Beyond that level, advancing skills requires more focus and determination, reflecting the increasing difficulty of mastering a skill as one reaches the peak of their potential. This means banking advancements to continue seeing results. It typically takes about six months of dedicated focus to gain an advancement in a skill.
 
-### **Skill List**
+### Skill List and Attributes
 
+1. **Acrobatics (AGI):** Climbing, balancing, and performing agile movements.
+2. **Athletics (PHY):** Running, jumping, swimming, and general physical exertion.
+3. **Brawl (PHY):** Hand-to-hand combat and unarmed fighting techniques.
+4. **Firearms (AGI):** Proficiency with guns and other ranged weapons.
+5. **Stealth (AGI):** Moving silently and avoiding detection.
+6. **Survival (PER):** Tracking, foraging, and knowledge of survival techniques.
+7. **Melee Combat (PHY):** Proficiency with melee weapons such as swords, knives, clubs, and axes.
+8. **Computers (LOG):** Using, programming, and hacking computers.
+9. **Engineering (LOG):** Understanding and repairing mechanical and electrical systems.
+10. **Investigation (LOG):** Searching for clues, solving puzzles, and piecing together information.
+11. **Medicine (LOG):** First aid, surgery, and medical knowledge.
+12. **Science (LOG):** Knowledge of natural and physical sciences, including chemistry, biology, and physics.
+13. **Occult (LOG):** Knowledge of the supernatural, occult rituals, and lore.
+14. **Charm (SOC):** Persuasion, seduction, and influencing others through charisma.
+15. **Deception (SOC):** Lying, creating false identities, and trickery.
+16. **Intimidation (SOC):** Coercing and threatening others to get what you want.
+17. **Negotiation (SOC):** Bargaining, diplomacy, and resolving conflicts.
+18. **Notice (PER):** Spotting hidden dangers, noticing small details, and staying aware of your surroundings.
+19. **Insight (PER):** Reading people’s emotions, detecting lies, and understanding motives.
+20. **Sense (PER):** Using heightened senses like smell, taste, hearing, and touch to gather information.
+21. **Crafting (LOG):** Creating and repairing items, from weapons to tools.
+22. **Driving (AGI):** Operating vehicles in various conditions and situations.
+23. **Lockpicking (AGI):** Bypassing locks and security devices.
+24. **Mechanics (LOG):** Fixing and understanding machinery and engines.
 
-| Skill              | Attribute | Sample Focuses                                               |
-| ------------------ | --------- | ------------------------------------------------------------ |
-| Acrobatics         | AGI       | Long Jump, Parkour, Free Running                             |
-| Athletics          | PHY       | Run, Climb, Swim                                             |
-| Brawl              | PHY       | Martial Arts, Bar Fighting                                   |
-| Firearms           | AGI       | Pistols, Rifles, SMGs                                        |
-| Stealth            | AGI       | Hiding, Sneaking                                             |
-| Survival           | PER       | Tracking, Navigation, Foraging, Streetwise                   |
-| Melee Combat       | PHY       | Short Blades, Long Blades, Clubs                             |
-| Computers          | LOG       | Research, Programming, Hacking                               |
-| Engineering        | LOG       | Demolitions, Structural, Mechanical                          |
-| Investigation      | LOG       | Interview, Interrogate, Canvass                              |
-| Medicine           | LOG       | Surgery, First Aid, Herbal Medicine                          |
-| Science            | LOG       | Life Science, Physical Science, Space Science, Xenobiology   |
-| Mysticism          | LOG       | Religion, Cultural, Voodoo, Old Ones, Arcana                 |
-| Charm              | SOC       | Persuade, Seduce, Small Talk                                 |
-| Deception          | SOC       | Fast Talk, Bluff, Disguise, Impersonate                      |
-| Intimidation       | SOC       | Indoctrinate, Frighten, Strongarm                            |
-| Negotiation        | SOC       | Mediate, Treaties, Contracts                                 |
-| Notice             | PER       | Search, Spot, Quickdraw                                      |
-| Insight            | PER       | Sense Motive, Discern Lies, Observe                          |
-| Sense              | PER       | Smell, Taste, Listen                                         |
-| Crafting           | LOG       | Construction, Craft, Art, Pottery, Firearm Repair            |
-| Driving            | AGI       | Ground Vehicles, Water Vehicles, Heavy Vehicles              |
-| Lockpicking        | AGI       | Lock Construction, Keymaking, Maglocks                       |
-| Mechanics          | LOG       | Repair, Jury Rig, Electronic Repair, Automotive              |
-| Pilot              | AGI       | Starships, Fighters, Dropships, Shuttles, Helicopters, VTOL  |
-| Zero-G Maneuvering | AGI       | Zero-G Combat, EVA Repair, Emergency Procedures              |
-| Xenology           | LOG       | Alien Cultures, Alien Technology, Alien Etiquette            |
-| Astrogation        | LOG       | Jump Calculations, Stellar Cartography, Multiversal Dynamics |
-| Energy Weapons     | AGI       | Plasma Rifles, Plasma Rifles, Plasma Cannons                 |
-| Gunnery            | AGI       | Railguns, PDCs, Plasma Cannons, Missiles, Torpedos           |
+### Summary Table
+
+| Skill         | Attribute | Sample Focuses                                    |
+| ------------- | --------- | ------------------------------------------------- |
+| Acrobatics    | AGI       | Long Jump, Parkour, Free Running                  |
+| Athletics     | PHY       | Run, Climb, Swim                                  |
+| Brawl         | PHY       | Martial Arts, Bar Fighting                        |
+| Firearms      | AGI       | Pistols, Rifles, SMGs                             |
+| Stealth       | AGI       | Hiding, Sneaking                                  |
+| Survival      | PER       | Tracking, Navigation, Foraging, Streetwise        |
+| Melee Combat  | PHY       | Short Blades, Long Blades, Clubs                  |
+| Computers     | LOG       | Research, Programming, Hacking                    |
+| Engineering   | LOG       | Demolitions, Structural, Mechanical               |
+| Investigation | LOG       | Interview, Interrogate, Canvass                   |
+| Medicine      | LOG       | Surgery, First Aid, Herbal Medicine               |
+| Science       | LOG       | Life Science, Physical Science, Space Science     |
+| Occult        | LOG       | Religion, Cultural, Voodoo, Old Ones, Arcana      |
+| Charm         | SOC       | Persuade, Seduce, Small Talk                      |
+| Deception     | SOC       | Fast Talk, Bluff, Disguise, Impersonate           |
+| Intimidation  | SOC       | Indoctrinate, Frighten, Strongarm                 |
+| Negotiation   | SOC       | Mediate, Treaties, Contracts                      |
+| Notice        | PER       | Search, Spot, Quickdraw                           |
+| Insight       | PER       | Sense Motive, Discern Lies, Observe               |
+| Sense         | PER       | Smell, Taste, Listen                              |
+| Crafting      | LOG       | Construction, Craft, Art, Pottery, Firearm Repair |
+| Driving       | AGI       | Ground Vehicles, Water Vehicles, Heavy Vehicles   |
+| Lockpicking   | AGI       | Lock Construction, Keymaking, Maglocks            |
+| Mechanics     | LOG       | Repair, Jury Rig, Electronic Repair, Automotive   |
 
 ### Defaulting
 
-Defaulting is when you use a skill without having any points in the skill, relying solely on your attribute and natural talent. Some skills cannot be defaulted and require special training and expertise to perform, but most skills can be defaulted. When you default to a skill, you use the relevant attribute modifier without any skill bonus. Defaulting suffers a -3 Penalty.
+Defaulting is when you use a skill without having any points in the skill, relying solely on your attribute and natural talent. Some skills cannot be defaulted and require special training and expertise to perform, but most skills can be defaulted. When you default to a skill, you use the relevant attribute modifier without any skill bonus. Defaulting has a penalty of -3. 
 
 **Example:**
 Alex has an Agility of 9 with a Dice Modifier of +1. Alex has a 0 or no skills in Driving. 
@@ -102,6 +122,7 @@ A focus is a niche area where your character is particularly skilled within a br
 You can only take a focus once, but you can take multiple focuses for the same base skill. There is no predefined list of focuses; you are encouraged to work with your Game Master to create appropriate focuses for your character.
 
 **Note:** This is not the final list of skills. If you believe your character should know about a specific area, such as Law, you can create that skill and spend points in it, with approval from the Game Master. This flexibility allows for a wide range of knowledge-based skills that enhance role-playing without unbalancing the game.
+
 
 ### Skill Descriptions
 
@@ -163,15 +184,6 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Camouflaging:** Blending into the environment to avoid detection. (TN 20)
      - **Shadowing:** Following someone without being noticed. (TN 25)
 
-7. **Zero-G Maneuvering (AGI)**
-   - **Description:** Zero-G Maneuvering is the ability to move and operate effectively in zero-gravity environments. This includes spacewalks, using thrusters, and navigating space stations. Characters skilled in zero-G maneuvering excel in space missions and extraterrestrial operations.
-   - **Example Focuses:** Zero-G Combat, EVA Repair, Emergency Procedures
-   - **Example Usages:**
-     - **Moving in zero gravity:** Maneuvering through a zero-G environment. (TN 10)
-     - **Performing an EVA repair:** Fixing a malfunction on the exterior of a spacecraft. (TN 15)
-     - **Engaging in zero-G combat:** Fighting effectively without gravity. (TN 20)
-     - **Performing emergency procedures:** Handling a zero-G emergency with precision. (TN 25)
-
 #### **Vitality Skills**
 
 8. **Survival (PER)**
@@ -232,8 +244,8 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Developing a hypothesis:** Formulating a testable scientific hypothesis. (TN 20)
      - **Making a discovery:** Uncovering a significant scientific breakthrough. (TN 25)
 
-14. **Mysticism (LOG)**
-   - **Description:** Mysticism involves knowledge and practice of magical, spiritual, and occult traditions. This skill includes understanding rituals, casting spells, and communing with supernatural entities. Characters proficient in mysticism can harness mystical energies and interact with the arcane.
+14. **Occult (LOG)**
+   - **Description:** Occult involves knowledge and practice of magical, spiritual, and occult traditions. This skill includes understanding rituals, casting spells, and communing with supernatural entities. Characters proficient in mysticism can harness mystical energies and interact with the arcane.
    - **Example Focuses:** Religion, Cultural, Voodoo, Old Ones, Arcana
    - **Example Usages:**
      - **Performing a ritual:** Conducting a mystical ritual to achieve a specific effect. (TN 10)
@@ -348,50 +360,7 @@ You can only take a focus once, but you can take multiple focuses for the same b
      - **Enhancing performance:** Upgrading a vehicle's performance. (TN 20)
      - **Troubleshooting complex issues:** Diagnosing and fixing intricate mechanical problems. (TN 25)
 
-26. **Pilot (AGI)**
-   - **Description:** Pilot involves operating aerial and space vehicles, including spacecraft, shuttles, and fighter jets. This skill includes navigating through space, performing aerial maneuvers, and handling advanced spacecraft systems. Characters skilled in piloting can control various aircraft and spacecraft with expertise.
-   - **Example Focuses:** Starships, Fighters, Dropships, Shuttles, Helicopters, VTOL
-   - **Example Usages:**
-     - **Flying a spacecraft:** Operating a spacecraft under normal conditions. (TN 10)
-     - **Navigating through asteroid fields:** Maneuvering through dangerous space terrain. (TN 15)
-     - **Performing combat maneuvers:** Executing complex aerial combat tactics. (TN 20)
-     - **Handling emergency landings:** Safely landing a damaged spacecraft. (TN 25)
 
-27. **Xenology (LOG)**
-   - **Description:** Xenology involves understanding and interacting with alien cultures, technologies, and biology. This skill includes studying alien species, decoding alien languages, and negotiating with extraterrestrial beings. Characters skilled in xenology can navigate and bridge cultural and technological gaps between different species.
-   - **Example Focuses:** Alien Cultures, Alien Technology, Alien Etiquette
-   - **Example Usages:**
-     - **Studying alien artifacts:** Understanding the function and significance of alien objects. (TN 10)
-     - **Decoding alien languages:** Translating and interpreting alien languages. (TN 15)
-     - **Negotiating with alien beings:** Successfully engaging in diplomatic discussions with aliens. (TN 20)
-     - **Conducting xenobiological research:** Studying and analyzing alien life forms. (TN 25)
-
-28. **Astrogation (LOG)**
-   - **Description:** Astrogation involves charting courses and navigating through space. This skill includes plotting interstellar travel routes, avoiding hazards, and optimizing travel paths. Characters skilled in astrogation can ensure safe and efficient space travel.
-   - **Example Focuses:** Jump Calculations, Stellar Cartography, Multiversal Dynamics
-   - **Example Usages:**
-     - **Plotting a course:** Charting a safe route through space. (TN 10)
-     - **Avoiding space hazards:** Navigating around dangerous space phenomena. (TN 15)
-     - **Optimizing travel paths:** Finding the most efficient route for interstellar travel. (TN 20)
-     - **Conducting advanced astrogation:** Performing complex calculations for long-distance travel. (TN 25)
-
-29. **Energy Weapons (AGI)**
-   - **Description:** Energy Weapons involves using advanced energy-based weaponry, such as plasma rifles and laser cannons. This skill includes aiming, firing, and maintaining these weapons. Characters skilled in energy weapons can engage in high-tech combat with precision and effectiveness.
-   - **Example Focuses:** Plasma Rifles, Plasma Cannons
-   - **Example Usages:**
-     - **Firing a plasma rifle:** Shooting an energy-based weapon accurately. (TN 10)
-     - **Maintaining energy weapons:** Keeping energy-based weapons in optimal condition. (TN 15)
-     - **Engaging in energy weapon combat:** Using advanced tactics in energy-based combat. (TN 20)
-     - **Optimizing energy weapon performance:** Enhancing the effectiveness of energy-based weapons. (TN 25)
-
-30. **Gunnery (AGI)**
-   - **Description:** Gunnery involves operating large-scale weapons systems, such as railguns, PDCs, and missiles. This skill includes targeting, firing, and maintaining these systems. Characters skilled in gunnery can handle advanced weaponry with expertise, often used on spacecraft and fortified positions.
-   - **Example Focuses:** Railguns, PDCs, Plasma Cannons, Missiles, Torpedos
-   - **Example Usages:**
-     - **Firing a railgun:** Targeting and shooting a large-scale weapon accurately. (TN 10)
-     - **Maintaining gunnery systems:** Keeping large-scale weapons in optimal condition. (TN 15)
-     - **Engaging in gunnery combat:** Using advanced tactics in large-scale weapon combat. (TN 20)
-     - **Optimizing gunnery performance:** Enhancing the effectiveness of large-scale weapons. (TN 25)
 
 
 ### Fixed Target Numbers for Gen6 Skills
@@ -506,7 +475,7 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Theorizing a new scientific principle (TN 25)
 - **Nearly Impossible:** Proving a theory of everything (TN 30)
 
-#### Mysticism (LOG)
+#### Occult (LOG)
 - **Very Easy:** Recognizing basic symbols (TN 5)
 - **Easy:** Performing a simple ritual (TN 10)
 - **Moderate:** Interpreting ancient texts (TN 15)
@@ -608,50 +577,8 @@ In the Gen6 system, fixed target numbers (TNs) provide a standard measure for de
 - **Very Hard:** Innovating new mechanical systems (TN 25)
 - **Nearly Impossible:** Restoring ancient, unknown machinery (TN 30)
 
-#### Pilot (AGI)
-- **Very Easy:** Flying in clear skies (TN 5)
-- **Easy:** Maneuvering through light turbulence (TN 10)
-- **Moderate:** Navigating a busy spaceport (TN 15)
-- **Hard:** Piloting through asteroid fields (TN 20)
-- **Very Hard:** Evading enemy fire in combat (TN 25)
-- **Nearly Impossible:** Performing evasive maneuvers at light speed (TN 30)
 
-#### Zero-G Maneuvering (AGI)
-- **Very Easy:** Moving in zero gravity (TN 5)
-- **Easy:** Basic EVA (extravehicular activity) (TN 10)
-- **Moderate:** Navigating a debris field (TN 15)
-- **Hard:** Repairing equipment in space (TN 20)
-- **Very Hard:** Performing complex maneuvers in combat (TN 25)
-- **Nearly Impossible:** Conducting a zero-G battle (TN 30)
 
-#### Xenology (LOG)
-- **Very Easy:** Recognizing common alien species (TN 5)
-- **Easy:** Understanding basic alien customs (TN 10)
-- **Moderate:** Communicating in an alien language (TN 15)
-- **Hard:** Interpreting alien technology (TN 20)
-- **Very Hard:** Negotiating with an alien culture (TN 25)
-- **Nearly Impossible:** Mastering alien philosophy (TN 30)
 
-#### Astrogation (LOG)
-- **Very Easy:** Plotting a simple course (TN 5)
-- **Easy:** Navigating familiar space routes (TN 10)
-- **Moderate:** Charting a new star system (TN 15)
-- **Hard:** Avoiding space anomalies (TN 20)
-- **Very Hard:** Calculating hyperspace jumps (TN 25)
-- **Nearly Impossible:** Mapping uncharted galaxies (TN 30)
 
-#### Energy Weapons (AGI)
-- **Very Easy:** Firing at a stationary target (TN 5)
-- **Easy:** Hitting a moving target at short range (TN 10)
-- **Moderate:** Shooting a target at medium range (TN 15)
-- **Hard:** Hitting a small moving target (TN 20)
-- **Very Hard:** Sniping a target at long range (TN 25)
-- **Nearly Impossible:** Shooting a tiny moving target in the dark (TN 30)
 
-#### Gunnery (AGI)
-- **Very Easy:** Firing ship-mounted weapons (TN 5)
-- **Easy:** Targeting a nearby ship (TN 10)
-- **Moderate:** Engaging in ship-to-ship combat (TN 15)
-- **Hard:** Targeting specific ship systems (TN 20)
-- **Very Hard:** Hitting a fast-moving ship (TN 25)
-- **Nearly Impossible:** Achieving critical hits in combat (TN 30)

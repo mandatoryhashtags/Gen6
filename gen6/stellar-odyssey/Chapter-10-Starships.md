@@ -12,7 +12,7 @@ While several skills in the Gen6 system are useful, the following skills are cru
 
 - **Computers:** Used for maintaining, repairing, and performing specific tasks with a ship’s automated systems.
 - **Mechanics:** Essential for repairing and maintaining the physical components of a ship.
-- **Science (Astrogation):** Used for charting courses and plotting flight paths.
+- **Astrogation:** Used for charting courses and plotting flight paths.
 - **Piloting:** Required to drive or fly any starship in the game.
 
 ---

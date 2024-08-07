@@ -36,9 +36,8 @@ You have 20 skill points to distribute among your skills. No skill may be higher
 
 #### **Step 4: Calculate Derived Numbers**
 Calculate your character's derived attributes based on the following formulas:
-- **Quickness:** 10 + your highest modifier from either Physical or Agility. This is the target number (TN) for enemies to hit you with ranged or melee weapons.
+- **Quickness:** 10 + your highest modifier from either Logic or Agility. This is the target number (TN) for enemies to hit you with ranged or melee weapons.
 - **Stamina:** 10 + your highest modifier from either Physical or Vitality. This is the TN for resisting poisons, radiation, exertion, and some other effects.
-- **Savvy:** 10 + your highest modifier from either Social or Perception. This is the TN for being charmed, lied to, and resisting certain effects.
 - **Willpower:** 10 + your highest modifier from either Logic or Perception. This is the TN for overcoming logic puzzles, resisting mind control, and certain other effects.
 - **Health Points (HP):** Your Vitality value + your Physical modifier + 20.
 - **Courage:** All characters start with a Courage score of 3.
@@ -76,7 +75,6 @@ Let's walk through an example of creating a character named Alex, a former soldi
 **Step 4: Calculate Derived Numbers**
 - Quickness: 10 + 2 (Agility modifier) = 12
 - Stamina: 10 + 3 (Vitality modifier) = 13
-- Savvy: 10 + 0 (Social modifier) = 10
 - Willpower: 10 + 1 (Perception modifier) = 11
 - Health Points: 12 (Vitality) + 0 (Physical modifier) + 20 = 32
 - Courage: 3
